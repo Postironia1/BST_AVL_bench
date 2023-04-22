@@ -1,0 +1,2630 @@
+Test seria: 1
+
+test number: 1
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 1.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0100939 sec.
+Time searching 1 time in BST tree: 1.00939e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101046 sec.
+Time searching 1 time in AVL tree: 1.01046e-05 sec.
+Time searching 1000 times in Vector: 0.010631 sec.
+Time searching 1 time in vector: 1.0631e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100633 sec.
+Time deleting 1 time from BST tree: 1.00633e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101723 sec.
+Time deleting 1 time from AVL tree: 1.01723e-05 sec.
+test number: 2
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0101103 sec.
+Time searching 1 time in BST tree: 1.01103e-05 sec.
+Time searching 1000 times in AVL tree: 0.0110786 sec.
+Time searching 1 time in AVL tree: 1.10786e-05 sec.
+Time searching 1000 times in Vector: 0.0112422 sec.
+Time searching 1 time in vector: 1.12422e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105235 sec.
+Time deleting 1 time from BST tree: 1.05235e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097928 sec.
+Time deleting 1 time from AVL tree: 9.7928e-06 sec.
+test number: 3
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0100441 sec.
+Time searching 1 time in BST tree: 1.00441e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101398 sec.
+Time searching 1 time in AVL tree: 1.01398e-05 sec.
+Time searching 1000 times in Vector: 0.0102483 sec.
+Time searching 1 time in vector: 1.02483e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100813 sec.
+Time deleting 1 time from BST tree: 1.00813e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100683 sec.
+Time deleting 1 time from AVL tree: 1.00683e-05 sec.
+test number: 4
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0097902 sec.
+Time searching 1 time in BST tree: 9.7902e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097465 sec.
+Time searching 1 time in AVL tree: 9.7465e-06 sec.
+Time searching 1000 times in Vector: 0.0106286 sec.
+Time searching 1 time in vector: 1.06286e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100313 sec.
+Time deleting 1 time from BST tree: 1.00313e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010282 sec.
+Time deleting 1 time from AVL tree: 1.0282e-05 sec.
+test number: 5
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 9e-07 sec.
+Time searching 1000 times in BST tree: 0.0100182 sec.
+Time searching 1 time in BST tree: 1.00182e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100217 sec.
+Time searching 1 time in AVL tree: 1.00217e-05 sec.
+Time searching 1000 times in Vector: 0.0108374 sec.
+Time searching 1 time in vector: 1.08374e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101977 sec.
+Time deleting 1 time from BST tree: 1.01977e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104763 sec.
+Time deleting 1 time from AVL tree: 1.04763e-05 sec.
+test number: 6
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 9e-07 sec.
+Time searching 1000 times in BST tree: 0.0109855 sec.
+Time searching 1 time in BST tree: 1.09855e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100454 sec.
+Time searching 1 time in AVL tree: 1.00454e-05 sec.
+Time searching 1000 times in Vector: 0.0105517 sec.
+Time searching 1 time in vector: 1.05517e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099533 sec.
+Time deleting 1 time from BST tree: 9.9533e-06 sec.
+Time deleting 1000 times from AVL tree: 0.009977 sec.
+Time deleting 1 time from AVL tree: 9.977e-06 sec.
+test number: 7
+Time inserting into BST tree: 8e-07 sec.
+Time inserting into AVL tree: 1e-06 sec.
+Time searching 1000 times in BST tree: 0.0097866 sec.
+Time searching 1 time in BST tree: 9.7866e-06 sec.
+Time searching 1000 times in AVL tree: 0.009774 sec.
+Time searching 1 time in AVL tree: 9.774e-06 sec.
+Time searching 1000 times in Vector: 0.0119388 sec.
+Time searching 1 time in vector: 1.19388e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101098 sec.
+Time deleting 1 time from BST tree: 1.01098e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100939 sec.
+Time deleting 1 time from AVL tree: 1.00939e-05 sec.
+test number: 8
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102731 sec.
+Time searching 1 time in BST tree: 1.02731e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100839 sec.
+Time searching 1 time in AVL tree: 1.00839e-05 sec.
+Time searching 1000 times in Vector: 0.0107275 sec.
+Time searching 1 time in vector: 1.07275e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101962 sec.
+Time deleting 1 time from BST tree: 1.01962e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100798 sec.
+Time deleting 1 time from AVL tree: 1.00798e-05 sec.
+test number: 9
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.6e-06 sec.
+Time searching 1000 times in BST tree: 0.010131 sec.
+Time searching 1 time in BST tree: 1.0131e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100804 sec.
+Time searching 1 time in AVL tree: 1.00804e-05 sec.
+Time searching 1000 times in Vector: 0.0104054 sec.
+Time searching 1 time in vector: 1.04054e-05 sec.
+Time deleting 1000 times from BST tree: 0.009949 sec.
+Time deleting 1 time from BST tree: 9.949e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0103285 sec.
+Time deleting 1 time from AVL tree: 1.03285e-05 sec.
+test number: 10
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0097458 sec.
+Time searching 1 time in BST tree: 9.7458e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100962 sec.
+Time searching 1 time in AVL tree: 1.00962e-05 sec.
+Time searching 1000 times in Vector: 0.0106635 sec.
+Time searching 1 time in vector: 1.06635e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101923 sec.
+Time deleting 1 time from BST tree: 1.01923e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099106 sec.
+Time deleting 1 time from AVL tree: 9.9106e-06 sec.
+test number: 11
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0101694 sec.
+Time searching 1 time in BST tree: 1.01694e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102864 sec.
+Time searching 1 time in AVL tree: 1.02864e-05 sec.
+Time searching 1000 times in Vector: 0.0105411 sec.
+Time searching 1 time in vector: 1.05411e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100613 sec.
+Time deleting 1 time from BST tree: 1.00613e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101258 sec.
+Time deleting 1 time from AVL tree: 1.01258e-05 sec.
+test number: 12
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 9e-07 sec.
+Time searching 1000 times in BST tree: 0.0100367 sec.
+Time searching 1 time in BST tree: 1.00367e-05 sec.
+Time searching 1000 times in AVL tree: 0.010516 sec.
+Time searching 1 time in AVL tree: 1.0516e-05 sec.
+Time searching 1000 times in Vector: 0.0105815 sec.
+Time searching 1 time in vector: 1.05815e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101388 sec.
+Time deleting 1 time from BST tree: 1.01388e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0096223 sec.
+Time deleting 1 time from AVL tree: 9.6223e-06 sec.
+test number: 13
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0097912 sec.
+Time searching 1 time in BST tree: 9.7912e-06 sec.
+Time searching 1000 times in AVL tree: 0.0099165 sec.
+Time searching 1 time in AVL tree: 9.9165e-06 sec.
+Time searching 1000 times in Vector: 0.0102631 sec.
+Time searching 1 time in vector: 1.02631e-05 sec.
+Time deleting 1000 times from BST tree: 0.0096753 sec.
+Time deleting 1 time from BST tree: 9.6753e-06 sec.
+Time deleting 1000 times from AVL tree: 0.009831 sec.
+Time deleting 1 time from AVL tree: 9.831e-06 sec.
+test number: 14
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 1.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0100474 sec.
+Time searching 1 time in BST tree: 1.00474e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098122 sec.
+Time searching 1 time in AVL tree: 9.8122e-06 sec.
+Time searching 1000 times in Vector: 0.0105526 sec.
+Time searching 1 time in vector: 1.05526e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101596 sec.
+Time deleting 1 time from BST tree: 1.01596e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099176 sec.
+Time deleting 1 time from AVL tree: 9.9176e-06 sec.
+test number: 15
+Time inserting into BST tree: 8e-07 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0104489 sec.
+Time searching 1 time in BST tree: 1.04489e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098149 sec.
+Time searching 1 time in AVL tree: 9.8149e-06 sec.
+Time searching 1000 times in Vector: 0.0102557 sec.
+Time searching 1 time in vector: 1.02557e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098713 sec.
+Time deleting 1 time from BST tree: 9.8713e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0101489 sec.
+Time deleting 1 time from AVL tree: 1.01489e-05 sec.
+test number: 16
+Time inserting into BST tree: 1e-06 sec.
+Time inserting into AVL tree: 9e-07 sec.
+Time searching 1000 times in BST tree: 0.009757 sec.
+Time searching 1 time in BST tree: 9.757e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098043 sec.
+Time searching 1 time in AVL tree: 9.8043e-06 sec.
+Time searching 1000 times in Vector: 0.0101955 sec.
+Time searching 1 time in vector: 1.01955e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099622 sec.
+Time deleting 1 time from BST tree: 9.9622e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097095 sec.
+Time deleting 1 time from AVL tree: 9.7095e-06 sec.
+test number: 17
+Time inserting into BST tree: 8e-07 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0096845 sec.
+Time searching 1 time in BST tree: 9.6845e-06 sec.
+Time searching 1000 times in AVL tree: 0.0101667 sec.
+Time searching 1 time in AVL tree: 1.01667e-05 sec.
+Time searching 1000 times in Vector: 0.0105803 sec.
+Time searching 1 time in vector: 1.05803e-05 sec.
+Time deleting 1000 times from BST tree: 0.010105 sec.
+Time deleting 1 time from BST tree: 1.0105e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100571 sec.
+Time deleting 1 time from AVL tree: 1.00571e-05 sec.
+test number: 18
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 8e-07 sec.
+Time searching 1000 times in BST tree: 0.0101541 sec.
+Time searching 1 time in BST tree: 1.01541e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103345 sec.
+Time searching 1 time in AVL tree: 1.03345e-05 sec.
+Time searching 1000 times in Vector: 0.0109548 sec.
+Time searching 1 time in vector: 1.09548e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105698 sec.
+Time deleting 1 time from BST tree: 1.05698e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102906 sec.
+Time deleting 1 time from AVL tree: 1.02906e-05 sec.
+test number: 19
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.45e-05 sec.
+Time searching 1000 times in BST tree: 0.0103065 sec.
+Time searching 1 time in BST tree: 1.03065e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104869 sec.
+Time searching 1 time in AVL tree: 1.04869e-05 sec.
+Time searching 1000 times in Vector: 0.0107917 sec.
+Time searching 1 time in vector: 1.07917e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102289 sec.
+Time deleting 1 time from BST tree: 1.02289e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0103378 sec.
+Time deleting 1 time from AVL tree: 1.03378e-05 sec.
+test number: 20
+Time inserting into BST tree: 8e-07 sec.
+Time inserting into AVL tree: 9e-07 sec.
+Time searching 1000 times in BST tree: 0.0104543 sec.
+Time searching 1 time in BST tree: 1.04543e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102319 sec.
+Time searching 1 time in AVL tree: 1.02319e-05 sec.
+Time searching 1000 times in Vector: 0.0107322 sec.
+Time searching 1 time in vector: 1.07322e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102981 sec.
+Time deleting 1 time from BST tree: 1.02981e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102342 sec.
+Time deleting 1 time from AVL tree: 1.02342e-05 sec.
+
+Test seria: 2
+
+test number: 1
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0105003 sec.
+Time searching 1 time in BST tree: 1.05003e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102753 sec.
+Time searching 1 time in AVL tree: 1.02753e-05 sec.
+Time searching 1000 times in Vector: 0.0108143 sec.
+Time searching 1 time in vector: 1.08143e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105723 sec.
+Time deleting 1 time from BST tree: 1.05723e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0109628 sec.
+Time deleting 1 time from AVL tree: 1.09628e-05 sec.
+test number: 2
+Time inserting into BST tree: 1.9e-06 sec.
+Time inserting into AVL tree: 3.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0143291 sec.
+Time searching 1 time in BST tree: 1.43291e-05 sec.
+Time searching 1000 times in AVL tree: 0.0124361 sec.
+Time searching 1 time in AVL tree: 1.24361e-05 sec.
+Time searching 1000 times in Vector: 0.0138273 sec.
+Time searching 1 time in vector: 1.38273e-05 sec.
+Time deleting 1000 times from BST tree: 0.0128548 sec.
+Time deleting 1 time from BST tree: 1.28548e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0130555 sec.
+Time deleting 1 time from AVL tree: 1.30555e-05 sec.
+test number: 3
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 4.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0111696 sec.
+Time searching 1 time in BST tree: 1.11696e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105608 sec.
+Time searching 1 time in AVL tree: 1.05608e-05 sec.
+Time searching 1000 times in Vector: 0.0113246 sec.
+Time searching 1 time in vector: 1.13246e-05 sec.
+Time deleting 1000 times from BST tree: 0.0111331 sec.
+Time deleting 1 time from BST tree: 1.11331e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0105645 sec.
+Time deleting 1 time from AVL tree: 1.05645e-05 sec.
+test number: 4
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 2e-06 sec.
+Time searching 1000 times in BST tree: 0.0104797 sec.
+Time searching 1 time in BST tree: 1.04797e-05 sec.
+Time searching 1000 times in AVL tree: 0.0109097 sec.
+Time searching 1 time in AVL tree: 1.09097e-05 sec.
+Time searching 1000 times in Vector: 0.010751 sec.
+Time searching 1 time in vector: 1.0751e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106741 sec.
+Time deleting 1 time from BST tree: 1.06741e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0103534 sec.
+Time deleting 1 time from AVL tree: 1.03534e-05 sec.
+test number: 5
+Time inserting into BST tree: 2.5e-06 sec.
+Time inserting into AVL tree: 2.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0110784 sec.
+Time searching 1 time in BST tree: 1.10784e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104051 sec.
+Time searching 1 time in AVL tree: 1.04051e-05 sec.
+Time searching 1000 times in Vector: 0.0108457 sec.
+Time searching 1 time in vector: 1.08457e-05 sec.
+Time deleting 1000 times from BST tree: 0.0121283 sec.
+Time deleting 1 time from BST tree: 1.21283e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0123324 sec.
+Time deleting 1 time from AVL tree: 1.23324e-05 sec.
+test number: 6
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 2.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0129636 sec.
+Time searching 1 time in BST tree: 1.29636e-05 sec.
+Time searching 1000 times in AVL tree: 0.0117101 sec.
+Time searching 1 time in AVL tree: 1.17101e-05 sec.
+Time searching 1000 times in Vector: 0.0128785 sec.
+Time searching 1 time in vector: 1.28785e-05 sec.
+Time deleting 1000 times from BST tree: 0.0113353 sec.
+Time deleting 1 time from BST tree: 1.13353e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0113732 sec.
+Time deleting 1 time from AVL tree: 1.13732e-05 sec.
+test number: 7
+Time inserting into BST tree: 1.9e-06 sec.
+Time inserting into AVL tree: 2.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0105009 sec.
+Time searching 1 time in BST tree: 1.05009e-05 sec.
+Time searching 1000 times in AVL tree: 0.010818 sec.
+Time searching 1 time in AVL tree: 1.0818e-05 sec.
+Time searching 1000 times in Vector: 0.0113958 sec.
+Time searching 1 time in vector: 1.13958e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102871 sec.
+Time deleting 1 time from BST tree: 1.02871e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0106647 sec.
+Time deleting 1 time from AVL tree: 1.06647e-05 sec.
+test number: 8
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102854 sec.
+Time searching 1 time in BST tree: 1.02854e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102062 sec.
+Time searching 1 time in AVL tree: 1.02062e-05 sec.
+Time searching 1000 times in Vector: 0.0107752 sec.
+Time searching 1 time in vector: 1.07752e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103038 sec.
+Time deleting 1 time from BST tree: 1.03038e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010028 sec.
+Time deleting 1 time from AVL tree: 1.0028e-05 sec.
+test number: 9
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0102701 sec.
+Time searching 1 time in BST tree: 1.02701e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102842 sec.
+Time searching 1 time in AVL tree: 1.02842e-05 sec.
+Time searching 1000 times in Vector: 0.0108542 sec.
+Time searching 1 time in vector: 1.08542e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102676 sec.
+Time deleting 1 time from BST tree: 1.02676e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101774 sec.
+Time deleting 1 time from AVL tree: 1.01774e-05 sec.
+test number: 10
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 5.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0104729 sec.
+Time searching 1 time in BST tree: 1.04729e-05 sec.
+Time searching 1000 times in AVL tree: 0.0110431 sec.
+Time searching 1 time in AVL tree: 1.10431e-05 sec.
+Time searching 1000 times in Vector: 0.0111647 sec.
+Time searching 1 time in vector: 1.11647e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100498 sec.
+Time deleting 1 time from BST tree: 1.00498e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100154 sec.
+Time deleting 1 time from AVL tree: 1.00154e-05 sec.
+test number: 11
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102594 sec.
+Time searching 1 time in BST tree: 1.02594e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103103 sec.
+Time searching 1 time in AVL tree: 1.03103e-05 sec.
+Time searching 1000 times in Vector: 0.0108924 sec.
+Time searching 1 time in vector: 1.08924e-05 sec.
+Time deleting 1000 times from BST tree: 0.009894 sec.
+Time deleting 1 time from BST tree: 9.894e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0101521 sec.
+Time deleting 1 time from AVL tree: 1.01521e-05 sec.
+test number: 12
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0101289 sec.
+Time searching 1 time in BST tree: 1.01289e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099224 sec.
+Time searching 1 time in AVL tree: 9.9224e-06 sec.
+Time searching 1000 times in Vector: 0.0107209 sec.
+Time searching 1 time in vector: 1.07209e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102808 sec.
+Time deleting 1 time from BST tree: 1.02808e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101058 sec.
+Time deleting 1 time from AVL tree: 1.01058e-05 sec.
+test number: 13
+Time inserting into BST tree: 9e-07 sec.
+Time inserting into AVL tree: 1.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0102522 sec.
+Time searching 1 time in BST tree: 1.02522e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099297 sec.
+Time searching 1 time in AVL tree: 9.9297e-06 sec.
+Time searching 1000 times in Vector: 0.010666 sec.
+Time searching 1 time in vector: 1.0666e-05 sec.
+Time deleting 1000 times from BST tree: 0.010063 sec.
+Time deleting 1 time from BST tree: 1.0063e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101926 sec.
+Time deleting 1 time from AVL tree: 1.01926e-05 sec.
+test number: 14
+Time inserting into BST tree: 1e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0098189 sec.
+Time searching 1 time in BST tree: 9.8189e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100441 sec.
+Time searching 1 time in AVL tree: 1.00441e-05 sec.
+Time searching 1000 times in Vector: 0.0108771 sec.
+Time searching 1 time in vector: 1.08771e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100454 sec.
+Time deleting 1 time from BST tree: 1.00454e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101697 sec.
+Time deleting 1 time from AVL tree: 1.01697e-05 sec.
+test number: 15
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0100626 sec.
+Time searching 1 time in BST tree: 1.00626e-05 sec.
+Time searching 1000 times in AVL tree: 0.010175 sec.
+Time searching 1 time in AVL tree: 1.0175e-05 sec.
+Time searching 1000 times in Vector: 0.0109063 sec.
+Time searching 1 time in vector: 1.09063e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098803 sec.
+Time deleting 1 time from BST tree: 9.8803e-06 sec.
+Time deleting 1000 times from AVL tree: 0.010042 sec.
+Time deleting 1 time from AVL tree: 1.0042e-05 sec.
+test number: 16
+Time inserting into BST tree: 1.5e-06 sec.
+Time inserting into AVL tree: 1.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102629 sec.
+Time searching 1 time in BST tree: 1.02629e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102822 sec.
+Time searching 1 time in AVL tree: 1.02822e-05 sec.
+Time searching 1000 times in Vector: 0.0107997 sec.
+Time searching 1 time in vector: 1.07997e-05 sec.
+Time deleting 1000 times from BST tree: 0.009865 sec.
+Time deleting 1 time from BST tree: 9.865e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0102328 sec.
+Time deleting 1 time from AVL tree: 1.02328e-05 sec.
+test number: 17
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 1.4e-06 sec.
+Time searching 1000 times in BST tree: 0.0103695 sec.
+Time searching 1 time in BST tree: 1.03695e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098352 sec.
+Time searching 1 time in AVL tree: 9.8352e-06 sec.
+Time searching 1000 times in Vector: 0.0105981 sec.
+Time searching 1 time in vector: 1.05981e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102299 sec.
+Time deleting 1 time from BST tree: 1.02299e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101867 sec.
+Time deleting 1 time from AVL tree: 1.01867e-05 sec.
+test number: 18
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 3.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0103159 sec.
+Time searching 1 time in BST tree: 1.03159e-05 sec.
+Time searching 1000 times in AVL tree: 0.0106415 sec.
+Time searching 1 time in AVL tree: 1.06415e-05 sec.
+Time searching 1000 times in Vector: 0.0130134 sec.
+Time searching 1 time in vector: 1.30134e-05 sec.
+Time deleting 1000 times from BST tree: 0.0114842 sec.
+Time deleting 1 time from BST tree: 1.14842e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0113848 sec.
+Time deleting 1 time from AVL tree: 1.13848e-05 sec.
+test number: 19
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 2.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0107414 sec.
+Time searching 1 time in BST tree: 1.07414e-05 sec.
+Time searching 1000 times in AVL tree: 0.0115291 sec.
+Time searching 1 time in AVL tree: 1.15291e-05 sec.
+Time searching 1000 times in Vector: 0.0118825 sec.
+Time searching 1 time in vector: 1.18825e-05 sec.
+Time deleting 1000 times from BST tree: 0.010415 sec.
+Time deleting 1 time from BST tree: 1.0415e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0107261 sec.
+Time deleting 1 time from AVL tree: 1.07261e-05 sec.
+test number: 20
+Time inserting into BST tree: 1.1e-06 sec.
+Time inserting into AVL tree: 1.43e-05 sec.
+Time searching 1000 times in BST tree: 0.0111475 sec.
+Time searching 1 time in BST tree: 1.11475e-05 sec.
+Time searching 1000 times in AVL tree: 0.010404 sec.
+Time searching 1 time in AVL tree: 1.0404e-05 sec.
+Time searching 1000 times in Vector: 0.0107268 sec.
+Time searching 1 time in vector: 1.07268e-05 sec.
+Time deleting 1000 times from BST tree: 0.0107381 sec.
+Time deleting 1 time from BST tree: 1.07381e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102696 sec.
+Time deleting 1 time from AVL tree: 1.02696e-05 sec.
+
+Test seria: 3
+
+test number: 1
+Time inserting into BST tree: 2e-06 sec.
+Time inserting into AVL tree: 2.6e-06 sec.
+Time searching 1000 times in BST tree: 0.0104521 sec.
+Time searching 1 time in BST tree: 1.04521e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105478 sec.
+Time searching 1 time in AVL tree: 1.05478e-05 sec.
+Time searching 1000 times in Vector: 0.0107302 sec.
+Time searching 1 time in vector: 1.07302e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101946 sec.
+Time deleting 1 time from BST tree: 1.01946e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102223 sec.
+Time deleting 1 time from AVL tree: 1.02223e-05 sec.
+test number: 2
+Time inserting into BST tree: 1.6e-06 sec.
+Time inserting into AVL tree: 2e-06 sec.
+Time searching 1000 times in BST tree: 0.0100054 sec.
+Time searching 1 time in BST tree: 1.00054e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098899 sec.
+Time searching 1 time in AVL tree: 9.8899e-06 sec.
+Time searching 1000 times in Vector: 0.0108472 sec.
+Time searching 1 time in vector: 1.08472e-05 sec.
+Time deleting 1000 times from BST tree: 0.0112587 sec.
+Time deleting 1 time from BST tree: 1.12587e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101599 sec.
+Time deleting 1 time from AVL tree: 1.01599e-05 sec.
+test number: 3
+Time inserting into BST tree: 1.8e-06 sec.
+Time inserting into AVL tree: 2.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0107039 sec.
+Time searching 1 time in BST tree: 1.07039e-05 sec.
+Time searching 1000 times in AVL tree: 0.0108486 sec.
+Time searching 1 time in AVL tree: 1.08486e-05 sec.
+Time searching 1000 times in Vector: 0.0107631 sec.
+Time searching 1 time in vector: 1.07631e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106717 sec.
+Time deleting 1 time from BST tree: 1.06717e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0112721 sec.
+Time deleting 1 time from AVL tree: 1.12721e-05 sec.
+test number: 4
+Time inserting into BST tree: 1.8e-06 sec.
+Time inserting into AVL tree: 2.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0152672 sec.
+Time searching 1 time in BST tree: 1.52672e-05 sec.
+Time searching 1000 times in AVL tree: 0.0114879 sec.
+Time searching 1 time in AVL tree: 1.14879e-05 sec.
+Time searching 1000 times in Vector: 0.0121588 sec.
+Time searching 1 time in vector: 1.21588e-05 sec.
+Time deleting 1000 times from BST tree: 0.0115133 sec.
+Time deleting 1 time from BST tree: 1.15133e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0106456 sec.
+Time deleting 1 time from AVL tree: 1.06456e-05 sec.
+test number: 5
+Time inserting into BST tree: 2.5e-06 sec.
+Time inserting into AVL tree: 3.7e-06 sec.
+Time searching 1000 times in BST tree: 0.0109677 sec.
+Time searching 1 time in BST tree: 1.09677e-05 sec.
+Time searching 1000 times in AVL tree: 0.0108781 sec.
+Time searching 1 time in AVL tree: 1.08781e-05 sec.
+Time searching 1000 times in Vector: 0.0113984 sec.
+Time searching 1 time in vector: 1.13984e-05 sec.
+Time deleting 1000 times from BST tree: 0.0119649 sec.
+Time deleting 1 time from BST tree: 1.19649e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104052 sec.
+Time deleting 1 time from AVL tree: 1.04052e-05 sec.
+test number: 6
+Time inserting into BST tree: 7.2e-06 sec.
+Time inserting into AVL tree: 5.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0106872 sec.
+Time searching 1 time in BST tree: 1.06872e-05 sec.
+Time searching 1000 times in AVL tree: 0.0107004 sec.
+Time searching 1 time in AVL tree: 1.07004e-05 sec.
+Time searching 1000 times in Vector: 0.0115104 sec.
+Time searching 1 time in vector: 1.15104e-05 sec.
+Time deleting 1000 times from BST tree: 0.0115037 sec.
+Time deleting 1 time from BST tree: 1.15037e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0114842 sec.
+Time deleting 1 time from AVL tree: 1.14842e-05 sec.
+test number: 7
+Time inserting into BST tree: 2.1e-06 sec.
+Time inserting into AVL tree: 4.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0149116 sec.
+Time searching 1 time in BST tree: 1.49116e-05 sec.
+Time searching 1000 times in AVL tree: 0.0133775 sec.
+Time searching 1 time in AVL tree: 1.33775e-05 sec.
+Time searching 1000 times in Vector: 0.0124738 sec.
+Time searching 1 time in vector: 1.24738e-05 sec.
+Time deleting 1000 times from BST tree: 0.0108612 sec.
+Time deleting 1 time from BST tree: 1.08612e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0111748 sec.
+Time deleting 1 time from AVL tree: 1.11748e-05 sec.
+test number: 8
+Time inserting into BST tree: 2.7e-06 sec.
+Time inserting into AVL tree: 3.7e-06 sec.
+Time searching 1000 times in BST tree: 0.0121015 sec.
+Time searching 1 time in BST tree: 1.21015e-05 sec.
+Time searching 1000 times in AVL tree: 0.011442 sec.
+Time searching 1 time in AVL tree: 1.1442e-05 sec.
+Time searching 1000 times in Vector: 0.0118113 sec.
+Time searching 1 time in vector: 1.18113e-05 sec.
+Time deleting 1000 times from BST tree: 0.010858 sec.
+Time deleting 1 time from BST tree: 1.0858e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0108205 sec.
+Time deleting 1 time from AVL tree: 1.08205e-05 sec.
+test number: 9
+Time inserting into BST tree: 2.6e-06 sec.
+Time inserting into AVL tree: 2e-06 sec.
+Time searching 1000 times in BST tree: 0.0110289 sec.
+Time searching 1 time in BST tree: 1.10289e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105981 sec.
+Time searching 1 time in AVL tree: 1.05981e-05 sec.
+Time searching 1000 times in Vector: 0.0113614 sec.
+Time searching 1 time in vector: 1.13614e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100794 sec.
+Time deleting 1 time from BST tree: 1.00794e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0106805 sec.
+Time deleting 1 time from AVL tree: 1.06805e-05 sec.
+test number: 10
+Time inserting into BST tree: 2.3e-06 sec.
+Time inserting into AVL tree: 3.3e-06 sec.
+Time searching 1000 times in BST tree: 0.010116 sec.
+Time searching 1 time in BST tree: 1.0116e-05 sec.
+Time searching 1000 times in AVL tree: 0.010017 sec.
+Time searching 1 time in AVL tree: 1.0017e-05 sec.
+Time searching 1000 times in Vector: 0.0105586 sec.
+Time searching 1 time in vector: 1.05586e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100625 sec.
+Time deleting 1 time from BST tree: 1.00625e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099837 sec.
+Time deleting 1 time from AVL tree: 9.9837e-06 sec.
+test number: 11
+Time inserting into BST tree: 2.32e-05 sec.
+Time inserting into AVL tree: 1.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0098876 sec.
+Time searching 1 time in BST tree: 9.8876e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100162 sec.
+Time searching 1 time in AVL tree: 1.00162e-05 sec.
+Time searching 1000 times in Vector: 0.0105049 sec.
+Time searching 1 time in vector: 1.05049e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100068 sec.
+Time deleting 1 time from BST tree: 1.00068e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099347 sec.
+Time deleting 1 time from AVL tree: 9.9347e-06 sec.
+test number: 12
+Time inserting into BST tree: 1.5e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0100798 sec.
+Time searching 1 time in BST tree: 1.00798e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100297 sec.
+Time searching 1 time in AVL tree: 1.00297e-05 sec.
+Time searching 1000 times in Vector: 0.0101168 sec.
+Time searching 1 time in vector: 1.01168e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098773 sec.
+Time deleting 1 time from BST tree: 9.8773e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097657 sec.
+Time deleting 1 time from AVL tree: 9.7657e-06 sec.
+test number: 13
+Time inserting into BST tree: 1.7e-06 sec.
+Time inserting into AVL tree: 2.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0105391 sec.
+Time searching 1 time in BST tree: 1.05391e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097527 sec.
+Time searching 1 time in AVL tree: 9.7527e-06 sec.
+Time searching 1000 times in Vector: 0.0106395 sec.
+Time searching 1 time in vector: 1.06395e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099342 sec.
+Time deleting 1 time from BST tree: 9.9342e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097298 sec.
+Time deleting 1 time from AVL tree: 9.7298e-06 sec.
+test number: 14
+Time inserting into BST tree: 1.5e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0102186 sec.
+Time searching 1 time in BST tree: 1.02186e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097355 sec.
+Time searching 1 time in AVL tree: 9.7355e-06 sec.
+Time searching 1000 times in Vector: 0.0107245 sec.
+Time searching 1 time in vector: 1.07245e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099581 sec.
+Time deleting 1 time from BST tree: 9.9581e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0096634 sec.
+Time deleting 1 time from AVL tree: 9.6634e-06 sec.
+test number: 15
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 1.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0097251 sec.
+Time searching 1 time in BST tree: 9.7251e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097956 sec.
+Time searching 1 time in AVL tree: 9.7956e-06 sec.
+Time searching 1000 times in Vector: 0.0102829 sec.
+Time searching 1 time in vector: 1.02829e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101844 sec.
+Time deleting 1 time from BST tree: 1.01844e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100506 sec.
+Time deleting 1 time from AVL tree: 1.00506e-05 sec.
+test number: 16
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 1.8e-06 sec.
+Time searching 1000 times in BST tree: 0.009679 sec.
+Time searching 1 time in BST tree: 9.679e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097623 sec.
+Time searching 1 time in AVL tree: 9.7623e-06 sec.
+Time searching 1000 times in Vector: 0.0111608 sec.
+Time searching 1 time in vector: 1.11608e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105002 sec.
+Time deleting 1 time from BST tree: 1.05002e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099732 sec.
+Time deleting 1 time from AVL tree: 9.9732e-06 sec.
+test number: 17
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0100436 sec.
+Time searching 1 time in BST tree: 1.00436e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100077 sec.
+Time searching 1 time in AVL tree: 1.00077e-05 sec.
+Time searching 1000 times in Vector: 0.0104015 sec.
+Time searching 1 time in vector: 1.04015e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100484 sec.
+Time deleting 1 time from BST tree: 1.00484e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100282 sec.
+Time deleting 1 time from AVL tree: 1.00282e-05 sec.
+test number: 18
+Time inserting into BST tree: 4.4e-06 sec.
+Time inserting into AVL tree: 1.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0100341 sec.
+Time searching 1 time in BST tree: 1.00341e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097983 sec.
+Time searching 1 time in AVL tree: 9.7983e-06 sec.
+Time searching 1000 times in Vector: 0.0105604 sec.
+Time searching 1 time in vector: 1.05604e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100941 sec.
+Time deleting 1 time from BST tree: 1.00941e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100214 sec.
+Time deleting 1 time from AVL tree: 1.00214e-05 sec.
+test number: 19
+Time inserting into BST tree: 1.6e-06 sec.
+Time inserting into AVL tree: 2e-06 sec.
+Time searching 1000 times in BST tree: 0.0100729 sec.
+Time searching 1 time in BST tree: 1.00729e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098778 sec.
+Time searching 1 time in AVL tree: 9.8778e-06 sec.
+Time searching 1000 times in Vector: 0.0102746 sec.
+Time searching 1 time in vector: 1.02746e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097784 sec.
+Time deleting 1 time from BST tree: 9.7784e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098724 sec.
+Time deleting 1 time from AVL tree: 9.8724e-06 sec.
+test number: 20
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 1.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0101018 sec.
+Time searching 1 time in BST tree: 1.01018e-05 sec.
+Time searching 1000 times in AVL tree: 0.0106369 sec.
+Time searching 1 time in AVL tree: 1.06369e-05 sec.
+Time searching 1000 times in Vector: 0.010599 sec.
+Time searching 1 time in vector: 1.0599e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101286 sec.
+Time deleting 1 time from BST tree: 1.01286e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101532 sec.
+Time deleting 1 time from AVL tree: 1.01532e-05 sec.
+
+Test seria: 4
+
+test number: 1
+Time inserting into BST tree: 2.6e-06 sec.
+Time inserting into AVL tree: 3.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102027 sec.
+Time searching 1 time in BST tree: 1.02027e-05 sec.
+Time searching 1000 times in AVL tree: 0.010048 sec.
+Time searching 1 time in AVL tree: 1.0048e-05 sec.
+Time searching 1000 times in Vector: 0.0103806 sec.
+Time searching 1 time in vector: 1.03806e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098424 sec.
+Time deleting 1 time from BST tree: 9.8424e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099559 sec.
+Time deleting 1 time from AVL tree: 9.9559e-06 sec.
+test number: 2
+Time inserting into BST tree: 1.48e-05 sec.
+Time inserting into AVL tree: 3.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0102091 sec.
+Time searching 1 time in BST tree: 1.02091e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100736 sec.
+Time searching 1 time in AVL tree: 1.00736e-05 sec.
+Time searching 1000 times in Vector: 0.010575 sec.
+Time searching 1 time in vector: 1.0575e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100496 sec.
+Time deleting 1 time from BST tree: 1.00496e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100992 sec.
+Time deleting 1 time from AVL tree: 1.00992e-05 sec.
+test number: 3
+Time inserting into BST tree: 2.4e-06 sec.
+Time inserting into AVL tree: 3.3e-06 sec.
+Time searching 1000 times in BST tree: 0.010097 sec.
+Time searching 1 time in BST tree: 1.0097e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100113 sec.
+Time searching 1 time in AVL tree: 1.00113e-05 sec.
+Time searching 1000 times in Vector: 0.0106897 sec.
+Time searching 1 time in vector: 1.06897e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103975 sec.
+Time deleting 1 time from BST tree: 1.03975e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010054 sec.
+Time deleting 1 time from AVL tree: 1.0054e-05 sec.
+test number: 4
+Time inserting into BST tree: 2.3e-06 sec.
+Time inserting into AVL tree: 1.72e-05 sec.
+Time searching 1000 times in BST tree: 0.0103252 sec.
+Time searching 1 time in BST tree: 1.03252e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100977 sec.
+Time searching 1 time in AVL tree: 1.00977e-05 sec.
+Time searching 1000 times in Vector: 0.0108297 sec.
+Time searching 1 time in vector: 1.08297e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101097 sec.
+Time deleting 1 time from BST tree: 1.01097e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098858 sec.
+Time deleting 1 time from AVL tree: 9.8858e-06 sec.
+test number: 5
+Time inserting into BST tree: 2.3e-06 sec.
+Time inserting into AVL tree: 3.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0098676 sec.
+Time searching 1 time in BST tree: 9.8676e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098355 sec.
+Time searching 1 time in AVL tree: 9.8355e-06 sec.
+Time searching 1000 times in Vector: 0.0104434 sec.
+Time searching 1 time in vector: 1.04434e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099014 sec.
+Time deleting 1 time from BST tree: 9.9014e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098855 sec.
+Time deleting 1 time from AVL tree: 9.8855e-06 sec.
+test number: 6
+Time inserting into BST tree: 2.6e-06 sec.
+Time inserting into AVL tree: 5e-06 sec.
+Time searching 1000 times in BST tree: 0.0099093 sec.
+Time searching 1 time in BST tree: 9.9093e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098792 sec.
+Time searching 1 time in AVL tree: 9.8792e-06 sec.
+Time searching 1000 times in Vector: 0.0103471 sec.
+Time searching 1 time in vector: 1.03471e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099164 sec.
+Time deleting 1 time from BST tree: 9.9164e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098817 sec.
+Time deleting 1 time from AVL tree: 9.8817e-06 sec.
+test number: 7
+Time inserting into BST tree: 2.2e-06 sec.
+Time inserting into AVL tree: 5e-06 sec.
+Time searching 1000 times in BST tree: 0.0100203 sec.
+Time searching 1 time in BST tree: 1.00203e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100108 sec.
+Time searching 1 time in AVL tree: 1.00108e-05 sec.
+Time searching 1000 times in Vector: 0.010374 sec.
+Time searching 1 time in vector: 1.0374e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099021 sec.
+Time deleting 1 time from BST tree: 9.9021e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098875 sec.
+Time deleting 1 time from AVL tree: 9.8875e-06 sec.
+test number: 8
+Time inserting into BST tree: 2.1e-06 sec.
+Time inserting into AVL tree: 3.7e-06 sec.
+Time searching 1000 times in BST tree: 0.0099136 sec.
+Time searching 1 time in BST tree: 9.9136e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098185 sec.
+Time searching 1 time in AVL tree: 9.8185e-06 sec.
+Time searching 1000 times in Vector: 0.0104352 sec.
+Time searching 1 time in vector: 1.04352e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098665 sec.
+Time deleting 1 time from BST tree: 9.8665e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099214 sec.
+Time deleting 1 time from AVL tree: 9.9214e-06 sec.
+test number: 9
+Time inserting into BST tree: 2.8e-06 sec.
+Time inserting into AVL tree: 4.7e-06 sec.
+Time searching 1000 times in BST tree: 0.0133779 sec.
+Time searching 1 time in BST tree: 1.33779e-05 sec.
+Time searching 1000 times in AVL tree: 0.0158677 sec.
+Time searching 1 time in AVL tree: 1.58677e-05 sec.
+Time searching 1000 times in Vector: 0.014656 sec.
+Time searching 1 time in vector: 1.4656e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102235 sec.
+Time deleting 1 time from BST tree: 1.02235e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101305 sec.
+Time deleting 1 time from AVL tree: 1.01305e-05 sec.
+test number: 10
+Time inserting into BST tree: 1.19e-05 sec.
+Time inserting into AVL tree: 4.4e-06 sec.
+Time searching 1000 times in BST tree: 0.0102825 sec.
+Time searching 1 time in BST tree: 1.02825e-05 sec.
+Time searching 1000 times in AVL tree: 0.010035 sec.
+Time searching 1 time in AVL tree: 1.0035e-05 sec.
+Time searching 1000 times in Vector: 0.0103345 sec.
+Time searching 1 time in vector: 1.03345e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105847 sec.
+Time deleting 1 time from BST tree: 1.05847e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0112973 sec.
+Time deleting 1 time from AVL tree: 1.12973e-05 sec.
+test number: 11
+Time inserting into BST tree: 2.2e-06 sec.
+Time inserting into AVL tree: 4.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0103887 sec.
+Time searching 1 time in BST tree: 1.03887e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097879 sec.
+Time searching 1 time in AVL tree: 9.7879e-06 sec.
+Time searching 1000 times in Vector: 0.0107074 sec.
+Time searching 1 time in vector: 1.07074e-05 sec.
+Time deleting 1000 times from BST tree: 0.009916 sec.
+Time deleting 1 time from BST tree: 9.916e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097959 sec.
+Time deleting 1 time from AVL tree: 9.7959e-06 sec.
+test number: 12
+Time inserting into BST tree: 1.6e-06 sec.
+Time inserting into AVL tree: 2.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0098361 sec.
+Time searching 1 time in BST tree: 9.8361e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098835 sec.
+Time searching 1 time in AVL tree: 9.8835e-06 sec.
+Time searching 1000 times in Vector: 0.0104534 sec.
+Time searching 1 time in vector: 1.04534e-05 sec.
+Time deleting 1000 times from BST tree: 0.009957 sec.
+Time deleting 1 time from BST tree: 9.957e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097117 sec.
+Time deleting 1 time from AVL tree: 9.7117e-06 sec.
+test number: 13
+Time inserting into BST tree: 1.6e-06 sec.
+Time inserting into AVL tree: 2.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0096669 sec.
+Time searching 1 time in BST tree: 9.6669e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097311 sec.
+Time searching 1 time in AVL tree: 9.7311e-06 sec.
+Time searching 1000 times in Vector: 0.0106072 sec.
+Time searching 1 time in vector: 1.06072e-05 sec.
+Time deleting 1000 times from BST tree: 0.0095762 sec.
+Time deleting 1 time from BST tree: 9.5762e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097649 sec.
+Time deleting 1 time from AVL tree: 9.7649e-06 sec.
+test number: 14
+Time inserting into BST tree: 1.2e-06 sec.
+Time inserting into AVL tree: 2.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0097998 sec.
+Time searching 1 time in BST tree: 9.7998e-06 sec.
+Time searching 1000 times in AVL tree: 0.0094617 sec.
+Time searching 1 time in AVL tree: 9.4617e-06 sec.
+Time searching 1000 times in Vector: 0.0103861 sec.
+Time searching 1 time in vector: 1.03861e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099956 sec.
+Time deleting 1 time from BST tree: 9.9956e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099731 sec.
+Time deleting 1 time from AVL tree: 9.9731e-06 sec.
+test number: 15
+Time inserting into BST tree: 2e-06 sec.
+Time inserting into AVL tree: 2.1e-06 sec.
+Time searching 1000 times in BST tree: 0.0098243 sec.
+Time searching 1 time in BST tree: 9.8243e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097927 sec.
+Time searching 1 time in AVL tree: 9.7927e-06 sec.
+Time searching 1000 times in Vector: 0.0104707 sec.
+Time searching 1 time in vector: 1.04707e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098961 sec.
+Time deleting 1 time from BST tree: 9.8961e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097806 sec.
+Time deleting 1 time from AVL tree: 9.7806e-06 sec.
+test number: 16
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 2.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0097877 sec.
+Time searching 1 time in BST tree: 9.7877e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097926 sec.
+Time searching 1 time in AVL tree: 9.7926e-06 sec.
+Time searching 1000 times in Vector: 0.0103046 sec.
+Time searching 1 time in vector: 1.03046e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097822 sec.
+Time deleting 1 time from BST tree: 9.7822e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0102906 sec.
+Time deleting 1 time from AVL tree: 1.02906e-05 sec.
+test number: 17
+Time inserting into BST tree: 1.7e-06 sec.
+Time inserting into AVL tree: 3.6e-06 sec.
+Time searching 1000 times in BST tree: 0.0100156 sec.
+Time searching 1 time in BST tree: 1.00156e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098754 sec.
+Time searching 1 time in AVL tree: 9.8754e-06 sec.
+Time searching 1000 times in Vector: 0.0103371 sec.
+Time searching 1 time in vector: 1.03371e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098052 sec.
+Time deleting 1 time from BST tree: 9.8052e-06 sec.
+Time deleting 1000 times from AVL tree: 0.009576 sec.
+Time deleting 1 time from AVL tree: 9.576e-06 sec.
+test number: 18
+Time inserting into BST tree: 1.6e-06 sec.
+Time inserting into AVL tree: 2.3e-06 sec.
+Time searching 1000 times in BST tree: 0.0096662 sec.
+Time searching 1 time in BST tree: 9.6662e-06 sec.
+Time searching 1000 times in AVL tree: 0.0094199 sec.
+Time searching 1 time in AVL tree: 9.4199e-06 sec.
+Time searching 1000 times in Vector: 0.0098963 sec.
+Time searching 1 time in vector: 9.8963e-06 sec.
+Time deleting 1000 times from BST tree: 0.0098479 sec.
+Time deleting 1 time from BST tree: 9.8479e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097195 sec.
+Time deleting 1 time from AVL tree: 9.7195e-06 sec.
+test number: 19
+Time inserting into BST tree: 1.3e-06 sec.
+Time inserting into AVL tree: 1.81e-05 sec.
+Time searching 1000 times in BST tree: 0.0094624 sec.
+Time searching 1 time in BST tree: 9.4624e-06 sec.
+Time searching 1000 times in AVL tree: 0.0099421 sec.
+Time searching 1 time in AVL tree: 9.9421e-06 sec.
+Time searching 1000 times in Vector: 0.010351 sec.
+Time searching 1 time in vector: 1.0351e-05 sec.
+Time deleting 1000 times from BST tree: 0.0094728 sec.
+Time deleting 1 time from BST tree: 9.4728e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0094459 sec.
+Time deleting 1 time from AVL tree: 9.4459e-06 sec.
+test number: 20
+Time inserting into BST tree: 1.4e-06 sec.
+Time inserting into AVL tree: 2.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0096454 sec.
+Time searching 1 time in BST tree: 9.6454e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098784 sec.
+Time searching 1 time in AVL tree: 9.8784e-06 sec.
+Time searching 1000 times in Vector: 0.0104 sec.
+Time searching 1 time in vector: 1.04e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098025 sec.
+Time deleting 1 time from BST tree: 9.8025e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0100769 sec.
+Time deleting 1 time from AVL tree: 1.00769e-05 sec.
+
+Test seria: 5
+
+test number: 1
+Time inserting into BST tree: 5.3e-06 sec.
+Time inserting into AVL tree: 6.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0098647 sec.
+Time searching 1 time in BST tree: 9.8647e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098503 sec.
+Time searching 1 time in AVL tree: 9.8503e-06 sec.
+Time searching 1000 times in Vector: 0.0110874 sec.
+Time searching 1 time in vector: 1.10874e-05 sec.
+Time deleting 1000 times from BST tree: 0.010742 sec.
+Time deleting 1 time from BST tree: 1.0742e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104409 sec.
+Time deleting 1 time from AVL tree: 1.04409e-05 sec.
+test number: 2
+Time inserting into BST tree: 6.3e-06 sec.
+Time inserting into AVL tree: 7e-06 sec.
+Time searching 1000 times in BST tree: 0.0108163 sec.
+Time searching 1 time in BST tree: 1.08163e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100738 sec.
+Time searching 1 time in AVL tree: 1.00738e-05 sec.
+Time searching 1000 times in Vector: 0.0104761 sec.
+Time searching 1 time in vector: 1.04761e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102246 sec.
+Time deleting 1 time from BST tree: 1.02246e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101989 sec.
+Time deleting 1 time from AVL tree: 1.01989e-05 sec.
+test number: 3
+Time inserting into BST tree: 2.36e-05 sec.
+Time inserting into AVL tree: 6.4e-06 sec.
+Time searching 1000 times in BST tree: 0.0101741 sec.
+Time searching 1 time in BST tree: 1.01741e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099821 sec.
+Time searching 1 time in AVL tree: 9.9821e-06 sec.
+Time searching 1000 times in Vector: 0.0108788 sec.
+Time searching 1 time in vector: 1.08788e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106583 sec.
+Time deleting 1 time from BST tree: 1.06583e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0105027 sec.
+Time deleting 1 time from AVL tree: 1.05027e-05 sec.
+test number: 4
+Time inserting into BST tree: 5.6e-06 sec.
+Time inserting into AVL tree: 6.5e-06 sec.
+Time searching 1000 times in BST tree: 0.010272 sec.
+Time searching 1 time in BST tree: 1.0272e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102011 sec.
+Time searching 1 time in AVL tree: 1.02011e-05 sec.
+Time searching 1000 times in Vector: 0.0113023 sec.
+Time searching 1 time in vector: 1.13023e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105031 sec.
+Time deleting 1 time from BST tree: 1.05031e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101751 sec.
+Time deleting 1 time from AVL tree: 1.01751e-05 sec.
+test number: 5
+Time inserting into BST tree: 5.3e-06 sec.
+Time inserting into AVL tree: 6.6e-06 sec.
+Time searching 1000 times in BST tree: 0.0103095 sec.
+Time searching 1 time in BST tree: 1.03095e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103836 sec.
+Time searching 1 time in AVL tree: 1.03836e-05 sec.
+Time searching 1000 times in Vector: 0.0108039 sec.
+Time searching 1 time in vector: 1.08039e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102688 sec.
+Time deleting 1 time from BST tree: 1.02688e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100139 sec.
+Time deleting 1 time from AVL tree: 1.00139e-05 sec.
+test number: 6
+Time inserting into BST tree: 2.66e-05 sec.
+Time inserting into AVL tree: 6.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0103056 sec.
+Time searching 1 time in BST tree: 1.03056e-05 sec.
+Time searching 1000 times in AVL tree: 0.0106155 sec.
+Time searching 1 time in AVL tree: 1.06155e-05 sec.
+Time searching 1000 times in Vector: 0.0105215 sec.
+Time searching 1 time in vector: 1.05215e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103333 sec.
+Time deleting 1 time from BST tree: 1.03333e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101427 sec.
+Time deleting 1 time from AVL tree: 1.01427e-05 sec.
+test number: 7
+Time inserting into BST tree: 6.2e-06 sec.
+Time inserting into AVL tree: 7.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0106735 sec.
+Time searching 1 time in BST tree: 1.06735e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103303 sec.
+Time searching 1 time in AVL tree: 1.03303e-05 sec.
+Time searching 1000 times in Vector: 0.0110308 sec.
+Time searching 1 time in vector: 1.10308e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102124 sec.
+Time deleting 1 time from BST tree: 1.02124e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102414 sec.
+Time deleting 1 time from AVL tree: 1.02414e-05 sec.
+test number: 8
+Time inserting into BST tree: 5.4e-06 sec.
+Time inserting into AVL tree: 6.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0100977 sec.
+Time searching 1 time in BST tree: 1.00977e-05 sec.
+Time searching 1000 times in AVL tree: 0.0107503 sec.
+Time searching 1 time in AVL tree: 1.07503e-05 sec.
+Time searching 1000 times in Vector: 0.0108413 sec.
+Time searching 1 time in vector: 1.08413e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101489 sec.
+Time deleting 1 time from BST tree: 1.01489e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101175 sec.
+Time deleting 1 time from AVL tree: 1.01175e-05 sec.
+test number: 9
+Time inserting into BST tree: 4.6e-06 sec.
+Time inserting into AVL tree: 6.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0103049 sec.
+Time searching 1 time in BST tree: 1.03049e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101686 sec.
+Time searching 1 time in AVL tree: 1.01686e-05 sec.
+Time searching 1000 times in Vector: 0.0110549 sec.
+Time searching 1 time in vector: 1.10549e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103784 sec.
+Time deleting 1 time from BST tree: 1.03784e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101608 sec.
+Time deleting 1 time from AVL tree: 1.01608e-05 sec.
+test number: 10
+Time inserting into BST tree: 5.3e-06 sec.
+Time inserting into AVL tree: 6.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0105412 sec.
+Time searching 1 time in BST tree: 1.05412e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101284 sec.
+Time searching 1 time in AVL tree: 1.01284e-05 sec.
+Time searching 1000 times in Vector: 0.0109982 sec.
+Time searching 1 time in vector: 1.09982e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106288 sec.
+Time deleting 1 time from BST tree: 1.06288e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104007 sec.
+Time deleting 1 time from AVL tree: 1.04007e-05 sec.
+test number: 11
+Time inserting into BST tree: 2.41e-05 sec.
+Time inserting into AVL tree: 5.4e-06 sec.
+Time searching 1000 times in BST tree: 0.0100997 sec.
+Time searching 1 time in BST tree: 1.00997e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100864 sec.
+Time searching 1 time in AVL tree: 1.00864e-05 sec.
+Time searching 1000 times in Vector: 0.0105375 sec.
+Time searching 1 time in vector: 1.05375e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101947 sec.
+Time deleting 1 time from BST tree: 1.01947e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0103725 sec.
+Time deleting 1 time from AVL tree: 1.03725e-05 sec.
+test number: 12
+Time inserting into BST tree: 3.6e-06 sec.
+Time inserting into AVL tree: 5.8e-06 sec.
+Time searching 1000 times in BST tree: 0.0102506 sec.
+Time searching 1 time in BST tree: 1.02506e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100286 sec.
+Time searching 1 time in AVL tree: 1.00286e-05 sec.
+Time searching 1000 times in Vector: 0.010819 sec.
+Time searching 1 time in vector: 1.0819e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102962 sec.
+Time deleting 1 time from BST tree: 1.02962e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104106 sec.
+Time deleting 1 time from AVL tree: 1.04106e-05 sec.
+test number: 13
+Time inserting into BST tree: 3.3e-06 sec.
+Time inserting into AVL tree: 5.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0100357 sec.
+Time searching 1 time in BST tree: 1.00357e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101767 sec.
+Time searching 1 time in AVL tree: 1.01767e-05 sec.
+Time searching 1000 times in Vector: 0.0112051 sec.
+Time searching 1 time in vector: 1.12051e-05 sec.
+Time deleting 1000 times from BST tree: 0.010434 sec.
+Time deleting 1 time from BST tree: 1.0434e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104609 sec.
+Time deleting 1 time from AVL tree: 1.04609e-05 sec.
+test number: 14
+Time inserting into BST tree: 3.5e-06 sec.
+Time inserting into AVL tree: 8.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0100871 sec.
+Time searching 1 time in BST tree: 1.00871e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105882 sec.
+Time searching 1 time in AVL tree: 1.05882e-05 sec.
+Time searching 1000 times in Vector: 0.0109679 sec.
+Time searching 1 time in vector: 1.09679e-05 sec.
+Time deleting 1000 times from BST tree: 0.010403 sec.
+Time deleting 1 time from BST tree: 1.0403e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100406 sec.
+Time deleting 1 time from AVL tree: 1.00406e-05 sec.
+test number: 15
+Time inserting into BST tree: 3.4e-06 sec.
+Time inserting into AVL tree: 5.4e-06 sec.
+Time searching 1000 times in BST tree: 0.0104751 sec.
+Time searching 1 time in BST tree: 1.04751e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101014 sec.
+Time searching 1 time in AVL tree: 1.01014e-05 sec.
+Time searching 1000 times in Vector: 0.0105821 sec.
+Time searching 1 time in vector: 1.05821e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099531 sec.
+Time deleting 1 time from BST tree: 9.9531e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0103757 sec.
+Time deleting 1 time from AVL tree: 1.03757e-05 sec.
+test number: 16
+Time inserting into BST tree: 4.7e-06 sec.
+Time inserting into AVL tree: 5.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0102431 sec.
+Time searching 1 time in BST tree: 1.02431e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100701 sec.
+Time searching 1 time in AVL tree: 1.00701e-05 sec.
+Time searching 1000 times in Vector: 0.0105542 sec.
+Time searching 1 time in vector: 1.05542e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102677 sec.
+Time deleting 1 time from BST tree: 1.02677e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102625 sec.
+Time deleting 1 time from AVL tree: 1.02625e-05 sec.
+test number: 17
+Time inserting into BST tree: 4.5e-06 sec.
+Time inserting into AVL tree: 5.6e-06 sec.
+Time searching 1000 times in BST tree: 0.0104961 sec.
+Time searching 1 time in BST tree: 1.04961e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104181 sec.
+Time searching 1 time in AVL tree: 1.04181e-05 sec.
+Time searching 1000 times in Vector: 0.0107586 sec.
+Time searching 1 time in vector: 1.07586e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101458 sec.
+Time deleting 1 time from BST tree: 1.01458e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098835 sec.
+Time deleting 1 time from AVL tree: 9.8835e-06 sec.
+test number: 18
+Time inserting into BST tree: 3.3e-06 sec.
+Time inserting into AVL tree: 4.7e-06 sec.
+Time searching 1000 times in BST tree: 0.0095806 sec.
+Time searching 1 time in BST tree: 9.5806e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100719 sec.
+Time searching 1 time in AVL tree: 1.00719e-05 sec.
+Time searching 1000 times in Vector: 0.0106365 sec.
+Time searching 1 time in vector: 1.06365e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100447 sec.
+Time deleting 1 time from BST tree: 1.00447e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0095922 sec.
+Time deleting 1 time from AVL tree: 9.5922e-06 sec.
+test number: 19
+Time inserting into BST tree: 2.12e-05 sec.
+Time inserting into AVL tree: 4.6e-06 sec.
+Time searching 1000 times in BST tree: 0.0097396 sec.
+Time searching 1 time in BST tree: 9.7396e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097997 sec.
+Time searching 1 time in AVL tree: 9.7997e-06 sec.
+Time searching 1000 times in Vector: 0.0101634 sec.
+Time searching 1 time in vector: 1.01634e-05 sec.
+Time deleting 1000 times from BST tree: 0.0096224 sec.
+Time deleting 1 time from BST tree: 9.6224e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099475 sec.
+Time deleting 1 time from AVL tree: 9.9475e-06 sec.
+test number: 20
+Time inserting into BST tree: 3.2e-06 sec.
+Time inserting into AVL tree: 5.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0101216 sec.
+Time searching 1 time in BST tree: 1.01216e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098126 sec.
+Time searching 1 time in AVL tree: 9.8126e-06 sec.
+Time searching 1000 times in Vector: 0.0104691 sec.
+Time searching 1 time in vector: 1.04691e-05 sec.
+Time deleting 1000 times from BST tree: 0.010064 sec.
+Time deleting 1 time from BST tree: 1.0064e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098133 sec.
+Time deleting 1 time from AVL tree: 9.8133e-06 sec.
+
+Test seria: 6
+
+test number: 1
+Time inserting into BST tree: 1.15e-05 sec.
+Time inserting into AVL tree: 1.4e-05 sec.
+Time searching 1000 times in BST tree: 0.0102794 sec.
+Time searching 1 time in BST tree: 1.02794e-05 sec.
+Time searching 1000 times in AVL tree: 0.009624 sec.
+Time searching 1 time in AVL tree: 9.624e-06 sec.
+Time searching 1000 times in Vector: 0.0106315 sec.
+Time searching 1 time in vector: 1.06315e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102306 sec.
+Time deleting 1 time from BST tree: 1.02306e-05 sec.
+Time deleting 1000 times from AVL tree: 0.009703 sec.
+Time deleting 1 time from AVL tree: 9.703e-06 sec.
+test number: 2
+Time inserting into BST tree: 1.13e-05 sec.
+Time inserting into AVL tree: 1.4e-05 sec.
+Time searching 1000 times in BST tree: 0.0100632 sec.
+Time searching 1 time in BST tree: 1.00632e-05 sec.
+Time searching 1000 times in AVL tree: 0.0096663 sec.
+Time searching 1 time in AVL tree: 9.6663e-06 sec.
+Time searching 1000 times in Vector: 0.0107338 sec.
+Time searching 1 time in vector: 1.07338e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099655 sec.
+Time deleting 1 time from BST tree: 9.9655e-06 sec.
+Time deleting 1000 times from AVL tree: 0.009759 sec.
+Time deleting 1 time from AVL tree: 9.759e-06 sec.
+test number: 3
+Time inserting into BST tree: 2.98e-05 sec.
+Time inserting into AVL tree: 1.53e-05 sec.
+Time searching 1000 times in BST tree: 0.0099079 sec.
+Time searching 1 time in BST tree: 9.9079e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098383 sec.
+Time searching 1 time in AVL tree: 9.8383e-06 sec.
+Time searching 1000 times in Vector: 0.010423 sec.
+Time searching 1 time in vector: 1.0423e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101006 sec.
+Time deleting 1 time from BST tree: 1.01006e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100873 sec.
+Time deleting 1 time from AVL tree: 1.00873e-05 sec.
+test number: 4
+Time inserting into BST tree: 1.18e-05 sec.
+Time inserting into AVL tree: 1.54e-05 sec.
+Time searching 1000 times in BST tree: 0.0103286 sec.
+Time searching 1 time in BST tree: 1.03286e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101779 sec.
+Time searching 1 time in AVL tree: 1.01779e-05 sec.
+Time searching 1000 times in Vector: 0.010979 sec.
+Time searching 1 time in vector: 1.0979e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100409 sec.
+Time deleting 1 time from BST tree: 1.00409e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098127 sec.
+Time deleting 1 time from AVL tree: 9.8127e-06 sec.
+test number: 5
+Time inserting into BST tree: 1.09e-05 sec.
+Time inserting into AVL tree: 3.98e-05 sec.
+Time searching 1000 times in BST tree: 0.0101339 sec.
+Time searching 1 time in BST tree: 1.01339e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097283 sec.
+Time searching 1 time in AVL tree: 9.7283e-06 sec.
+Time searching 1000 times in Vector: 0.0103368 sec.
+Time searching 1 time in vector: 1.03368e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100137 sec.
+Time deleting 1 time from BST tree: 1.00137e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097493 sec.
+Time deleting 1 time from AVL tree: 9.7493e-06 sec.
+test number: 6
+Time inserting into BST tree: 1.12e-05 sec.
+Time inserting into AVL tree: 1.4e-05 sec.
+Time searching 1000 times in BST tree: 0.0100037 sec.
+Time searching 1 time in BST tree: 1.00037e-05 sec.
+Time searching 1000 times in AVL tree: 0.0096774 sec.
+Time searching 1 time in AVL tree: 9.6774e-06 sec.
+Time searching 1000 times in Vector: 0.010438 sec.
+Time searching 1 time in vector: 1.0438e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100043 sec.
+Time deleting 1 time from BST tree: 1.00043e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0096176 sec.
+Time deleting 1 time from AVL tree: 9.6176e-06 sec.
+test number: 7
+Time inserting into BST tree: 1.16e-05 sec.
+Time inserting into AVL tree: 1.35e-05 sec.
+Time searching 1000 times in BST tree: 0.0101362 sec.
+Time searching 1 time in BST tree: 1.01362e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101279 sec.
+Time searching 1 time in AVL tree: 1.01279e-05 sec.
+Time searching 1000 times in Vector: 0.0107394 sec.
+Time searching 1 time in vector: 1.07394e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099446 sec.
+Time deleting 1 time from BST tree: 9.9446e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098348 sec.
+Time deleting 1 time from AVL tree: 9.8348e-06 sec.
+test number: 8
+Time inserting into BST tree: 1.08e-05 sec.
+Time inserting into AVL tree: 1.44e-05 sec.
+Time searching 1000 times in BST tree: 0.0101358 sec.
+Time searching 1 time in BST tree: 1.01358e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097463 sec.
+Time searching 1 time in AVL tree: 9.7463e-06 sec.
+Time searching 1000 times in Vector: 0.0103453 sec.
+Time searching 1 time in vector: 1.03453e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100195 sec.
+Time deleting 1 time from BST tree: 1.00195e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099611 sec.
+Time deleting 1 time from AVL tree: 9.9611e-06 sec.
+test number: 9
+Time inserting into BST tree: 1e-05 sec.
+Time inserting into AVL tree: 1.33e-05 sec.
+Time searching 1000 times in BST tree: 0.0098269 sec.
+Time searching 1 time in BST tree: 9.8269e-06 sec.
+Time searching 1000 times in AVL tree: 0.0096765 sec.
+Time searching 1 time in AVL tree: 9.6765e-06 sec.
+Time searching 1000 times in Vector: 0.010365 sec.
+Time searching 1 time in vector: 1.0365e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100551 sec.
+Time deleting 1 time from BST tree: 1.00551e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0096296 sec.
+Time deleting 1 time from AVL tree: 9.6296e-06 sec.
+test number: 10
+Time inserting into BST tree: 1.11e-05 sec.
+Time inserting into AVL tree: 1.28e-05 sec.
+Time searching 1000 times in BST tree: 0.0099194 sec.
+Time searching 1 time in BST tree: 9.9194e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100278 sec.
+Time searching 1 time in AVL tree: 1.00278e-05 sec.
+Time searching 1000 times in Vector: 0.0104929 sec.
+Time searching 1 time in vector: 1.04929e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100566 sec.
+Time deleting 1 time from BST tree: 1.00566e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102371 sec.
+Time deleting 1 time from AVL tree: 1.02371e-05 sec.
+test number: 11
+Time inserting into BST tree: 3.09e-05 sec.
+Time inserting into AVL tree: 1.02e-05 sec.
+Time searching 1000 times in BST tree: 0.0098251 sec.
+Time searching 1 time in BST tree: 9.8251e-06 sec.
+Time searching 1000 times in AVL tree: 0.0099853 sec.
+Time searching 1 time in AVL tree: 9.9853e-06 sec.
+Time searching 1000 times in Vector: 0.010234 sec.
+Time searching 1 time in vector: 1.0234e-05 sec.
+Time deleting 1000 times from BST tree: 0.0096687 sec.
+Time deleting 1 time from BST tree: 9.6687e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0100038 sec.
+Time deleting 1 time from AVL tree: 1.00038e-05 sec.
+test number: 12
+Time inserting into BST tree: 6e-06 sec.
+Time inserting into AVL tree: 1.05e-05 sec.
+Time searching 1000 times in BST tree: 0.0098982 sec.
+Time searching 1 time in BST tree: 9.8982e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097251 sec.
+Time searching 1 time in AVL tree: 9.7251e-06 sec.
+Time searching 1000 times in Vector: 0.0102068 sec.
+Time searching 1 time in vector: 1.02068e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097507 sec.
+Time deleting 1 time from BST tree: 9.7507e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0101022 sec.
+Time deleting 1 time from AVL tree: 1.01022e-05 sec.
+test number: 13
+Time inserting into BST tree: 6.3e-06 sec.
+Time inserting into AVL tree: 9.9e-06 sec.
+Time searching 1000 times in BST tree: 0.0098936 sec.
+Time searching 1 time in BST tree: 9.8936e-06 sec.
+Time searching 1000 times in AVL tree: 0.0096721 sec.
+Time searching 1 time in AVL tree: 9.6721e-06 sec.
+Time searching 1000 times in Vector: 0.0101558 sec.
+Time searching 1 time in vector: 1.01558e-05 sec.
+Time deleting 1000 times from BST tree: 0.009876 sec.
+Time deleting 1 time from BST tree: 9.876e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0097926 sec.
+Time deleting 1 time from AVL tree: 9.7926e-06 sec.
+test number: 14
+Time inserting into BST tree: 6.1e-06 sec.
+Time inserting into AVL tree: 1.19e-05 sec.
+Time searching 1000 times in BST tree: 0.0099264 sec.
+Time searching 1 time in BST tree: 9.9264e-06 sec.
+Time searching 1000 times in AVL tree: 0.010004 sec.
+Time searching 1 time in AVL tree: 1.0004e-05 sec.
+Time searching 1000 times in Vector: 0.0104644 sec.
+Time searching 1 time in vector: 1.04644e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097468 sec.
+Time deleting 1 time from BST tree: 9.7468e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099606 sec.
+Time deleting 1 time from AVL tree: 9.9606e-06 sec.
+test number: 15
+Time inserting into BST tree: 6e-06 sec.
+Time inserting into AVL tree: 1e-05 sec.
+Time searching 1000 times in BST tree: 0.0097461 sec.
+Time searching 1 time in BST tree: 9.7461e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097028 sec.
+Time searching 1 time in AVL tree: 9.7028e-06 sec.
+Time searching 1000 times in Vector: 0.0105882 sec.
+Time searching 1 time in vector: 1.05882e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097924 sec.
+Time deleting 1 time from BST tree: 9.7924e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0100603 sec.
+Time deleting 1 time from AVL tree: 1.00603e-05 sec.
+test number: 16
+Time inserting into BST tree: 6e-06 sec.
+Time inserting into AVL tree: 9.2e-06 sec.
+Time searching 1000 times in BST tree: 0.0098043 sec.
+Time searching 1 time in BST tree: 9.8043e-06 sec.
+Time searching 1000 times in AVL tree: 0.009884 sec.
+Time searching 1 time in AVL tree: 9.884e-06 sec.
+Time searching 1000 times in Vector: 0.0106212 sec.
+Time searching 1 time in vector: 1.06212e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097638 sec.
+Time deleting 1 time from BST tree: 9.7638e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099115 sec.
+Time deleting 1 time from AVL tree: 9.9115e-06 sec.
+test number: 17
+Time inserting into BST tree: 6.2e-06 sec.
+Time inserting into AVL tree: 9.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0097212 sec.
+Time searching 1 time in BST tree: 9.7212e-06 sec.
+Time searching 1000 times in AVL tree: 0.0098948 sec.
+Time searching 1 time in AVL tree: 9.8948e-06 sec.
+Time searching 1000 times in Vector: 0.0105454 sec.
+Time searching 1 time in vector: 1.05454e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101634 sec.
+Time deleting 1 time from BST tree: 1.01634e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099877 sec.
+Time deleting 1 time from AVL tree: 9.9877e-06 sec.
+test number: 18
+Time inserting into BST tree: 5.5e-06 sec.
+Time inserting into AVL tree: 9.5e-06 sec.
+Time searching 1000 times in BST tree: 0.0097718 sec.
+Time searching 1 time in BST tree: 9.7718e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097173 sec.
+Time searching 1 time in AVL tree: 9.7173e-06 sec.
+Time searching 1000 times in Vector: 0.0120218 sec.
+Time searching 1 time in vector: 1.20218e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097889 sec.
+Time deleting 1 time from BST tree: 9.7889e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098738 sec.
+Time deleting 1 time from AVL tree: 9.8738e-06 sec.
+test number: 19
+Time inserting into BST tree: 5.3e-06 sec.
+Time inserting into AVL tree: 3.79e-05 sec.
+Time searching 1000 times in BST tree: 0.0097698 sec.
+Time searching 1 time in BST tree: 9.7698e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100064 sec.
+Time searching 1 time in AVL tree: 1.00064e-05 sec.
+Time searching 1000 times in Vector: 0.0102419 sec.
+Time searching 1 time in vector: 1.02419e-05 sec.
+Time deleting 1000 times from BST tree: 0.0096896 sec.
+Time deleting 1 time from BST tree: 9.6896e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0100302 sec.
+Time deleting 1 time from AVL tree: 1.00302e-05 sec.
+test number: 20
+Time inserting into BST tree: 6.3e-06 sec.
+Time inserting into AVL tree: 1.03e-05 sec.
+Time searching 1000 times in BST tree: 0.0101076 sec.
+Time searching 1 time in BST tree: 1.01076e-05 sec.
+Time searching 1000 times in AVL tree: 0.0096818 sec.
+Time searching 1 time in AVL tree: 9.6818e-06 sec.
+Time searching 1000 times in Vector: 0.0104715 sec.
+Time searching 1 time in vector: 1.04715e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099429 sec.
+Time deleting 1 time from BST tree: 9.9429e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099647 sec.
+Time deleting 1 time from AVL tree: 9.9647e-06 sec.
+
+Test seria: 7
+
+test number: 1
+Time inserting into BST tree: 4.6e-05 sec.
+Time inserting into AVL tree: 4.34e-05 sec.
+Time searching 1000 times in BST tree: 0.0105362 sec.
+Time searching 1 time in BST tree: 1.05362e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098435 sec.
+Time searching 1 time in AVL tree: 9.8435e-06 sec.
+Time searching 1000 times in Vector: 0.0103979 sec.
+Time searching 1 time in vector: 1.03979e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101741 sec.
+Time deleting 1 time from BST tree: 1.01741e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097863 sec.
+Time deleting 1 time from AVL tree: 9.7863e-06 sec.
+test number: 2
+Time inserting into BST tree: 2.67e-05 sec.
+Time inserting into AVL tree: 2.9e-05 sec.
+Time searching 1000 times in BST tree: 0.0101601 sec.
+Time searching 1 time in BST tree: 1.01601e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098326 sec.
+Time searching 1 time in AVL tree: 9.8326e-06 sec.
+Time searching 1000 times in Vector: 0.0106238 sec.
+Time searching 1 time in vector: 1.06238e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105165 sec.
+Time deleting 1 time from BST tree: 1.05165e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097607 sec.
+Time deleting 1 time from AVL tree: 9.7607e-06 sec.
+test number: 3
+Time inserting into BST tree: 5.21e-05 sec.
+Time inserting into AVL tree: 3.1e-05 sec.
+Time searching 1000 times in BST tree: 0.0101087 sec.
+Time searching 1 time in BST tree: 1.01087e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097703 sec.
+Time searching 1 time in AVL tree: 9.7703e-06 sec.
+Time searching 1000 times in Vector: 0.0104155 sec.
+Time searching 1 time in vector: 1.04155e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101689 sec.
+Time deleting 1 time from BST tree: 1.01689e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100255 sec.
+Time deleting 1 time from AVL tree: 1.00255e-05 sec.
+test number: 4
+Time inserting into BST tree: 2.6e-05 sec.
+Time inserting into AVL tree: 2.94e-05 sec.
+Time searching 1000 times in BST tree: 0.0101791 sec.
+Time searching 1 time in BST tree: 1.01791e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100867 sec.
+Time searching 1 time in AVL tree: 1.00867e-05 sec.
+Time searching 1000 times in Vector: 0.0107354 sec.
+Time searching 1 time in vector: 1.07354e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105637 sec.
+Time deleting 1 time from BST tree: 1.05637e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099306 sec.
+Time deleting 1 time from AVL tree: 9.9306e-06 sec.
+test number: 5
+Time inserting into BST tree: 2.9e-05 sec.
+Time inserting into AVL tree: 5.37e-05 sec.
+Time searching 1000 times in BST tree: 0.0102562 sec.
+Time searching 1 time in BST tree: 1.02562e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097342 sec.
+Time searching 1 time in AVL tree: 9.7342e-06 sec.
+Time searching 1000 times in Vector: 0.0104957 sec.
+Time searching 1 time in vector: 1.04957e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102669 sec.
+Time deleting 1 time from BST tree: 1.02669e-05 sec.
+Time deleting 1000 times from AVL tree: 0.009919 sec.
+Time deleting 1 time from AVL tree: 9.919e-06 sec.
+test number: 6
+Time inserting into BST tree: 2.63e-05 sec.
+Time inserting into AVL tree: 2.8e-05 sec.
+Time searching 1000 times in BST tree: 0.0101073 sec.
+Time searching 1 time in BST tree: 1.01073e-05 sec.
+Time searching 1000 times in AVL tree: 0.009648 sec.
+Time searching 1 time in AVL tree: 9.648e-06 sec.
+Time searching 1000 times in Vector: 0.0102914 sec.
+Time searching 1 time in vector: 1.02914e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103994 sec.
+Time deleting 1 time from BST tree: 1.03994e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0096823 sec.
+Time deleting 1 time from AVL tree: 9.6823e-06 sec.
+test number: 7
+Time inserting into BST tree: 3.48e-05 sec.
+Time inserting into AVL tree: 2.84e-05 sec.
+Time searching 1000 times in BST tree: 0.0100976 sec.
+Time searching 1 time in BST tree: 1.00976e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098426 sec.
+Time searching 1 time in AVL tree: 9.8426e-06 sec.
+Time searching 1000 times in Vector: 0.0107862 sec.
+Time searching 1 time in vector: 1.07862e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102828 sec.
+Time deleting 1 time from BST tree: 1.02828e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100853 sec.
+Time deleting 1 time from AVL tree: 1.00853e-05 sec.
+test number: 8
+Time inserting into BST tree: 2.69e-05 sec.
+Time inserting into AVL tree: 6.61e-05 sec.
+Time searching 1000 times in BST tree: 0.010247 sec.
+Time searching 1 time in BST tree: 1.0247e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098054 sec.
+Time searching 1 time in AVL tree: 9.8054e-06 sec.
+Time searching 1000 times in Vector: 0.0102197 sec.
+Time searching 1 time in vector: 1.02197e-05 sec.
+Time deleting 1000 times from BST tree: 0.009968 sec.
+Time deleting 1 time from BST tree: 9.968e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0100659 sec.
+Time deleting 1 time from AVL tree: 1.00659e-05 sec.
+test number: 9
+Time inserting into BST tree: 2.73e-05 sec.
+Time inserting into AVL tree: 2.89e-05 sec.
+Time searching 1000 times in BST tree: 0.010327 sec.
+Time searching 1 time in BST tree: 1.0327e-05 sec.
+Time searching 1000 times in AVL tree: 0.009568 sec.
+Time searching 1 time in AVL tree: 9.568e-06 sec.
+Time searching 1000 times in Vector: 0.010669 sec.
+Time searching 1 time in vector: 1.0669e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103401 sec.
+Time deleting 1 time from BST tree: 1.03401e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010013 sec.
+Time deleting 1 time from AVL tree: 1.0013e-05 sec.
+test number: 10
+Time inserting into BST tree: 3.03e-05 sec.
+Time inserting into AVL tree: 2.97e-05 sec.
+Time searching 1000 times in BST tree: 0.0101449 sec.
+Time searching 1 time in BST tree: 1.01449e-05 sec.
+Time searching 1000 times in AVL tree: 0.010095 sec.
+Time searching 1 time in AVL tree: 1.0095e-05 sec.
+Time searching 1000 times in Vector: 0.0107833 sec.
+Time searching 1 time in vector: 1.07833e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102766 sec.
+Time deleting 1 time from BST tree: 1.02766e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0096253 sec.
+Time deleting 1 time from AVL tree: 9.6253e-06 sec.
+test number: 11
+Time inserting into BST tree: 1.46e-05 sec.
+Time inserting into AVL tree: 2.3e-05 sec.
+Time searching 1000 times in BST tree: 0.0100533 sec.
+Time searching 1 time in BST tree: 1.00533e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104126 sec.
+Time searching 1 time in AVL tree: 1.04126e-05 sec.
+Time searching 1000 times in Vector: 0.0110908 sec.
+Time searching 1 time in vector: 1.10908e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101318 sec.
+Time deleting 1 time from BST tree: 1.01318e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104377 sec.
+Time deleting 1 time from AVL tree: 1.04377e-05 sec.
+test number: 12
+Time inserting into BST tree: 1.21e-05 sec.
+Time inserting into AVL tree: 2.27e-05 sec.
+Time searching 1000 times in BST tree: 0.0099468 sec.
+Time searching 1 time in BST tree: 9.9468e-06 sec.
+Time searching 1000 times in AVL tree: 0.0100552 sec.
+Time searching 1 time in AVL tree: 1.00552e-05 sec.
+Time searching 1000 times in Vector: 0.0107991 sec.
+Time searching 1 time in vector: 1.07991e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099078 sec.
+Time deleting 1 time from BST tree: 9.9078e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098627 sec.
+Time deleting 1 time from AVL tree: 9.8627e-06 sec.
+test number: 13
+Time inserting into BST tree: 1.18e-05 sec.
+Time inserting into AVL tree: 2.47e-05 sec.
+Time searching 1000 times in BST tree: 0.0100701 sec.
+Time searching 1 time in BST tree: 1.00701e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100539 sec.
+Time searching 1 time in AVL tree: 1.00539e-05 sec.
+Time searching 1000 times in Vector: 0.0105651 sec.
+Time searching 1 time in vector: 1.05651e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099221 sec.
+Time deleting 1 time from BST tree: 9.9221e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0101405 sec.
+Time deleting 1 time from AVL tree: 1.01405e-05 sec.
+test number: 14
+Time inserting into BST tree: 1.35e-05 sec.
+Time inserting into AVL tree: 2.21e-05 sec.
+Time searching 1000 times in BST tree: 0.0102562 sec.
+Time searching 1 time in BST tree: 1.02562e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102772 sec.
+Time searching 1 time in AVL tree: 1.02772e-05 sec.
+Time searching 1000 times in Vector: 0.0110532 sec.
+Time searching 1 time in vector: 1.10532e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102344 sec.
+Time deleting 1 time from BST tree: 1.02344e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0105556 sec.
+Time deleting 1 time from AVL tree: 1.05556e-05 sec.
+test number: 15
+Time inserting into BST tree: 1.14e-05 sec.
+Time inserting into AVL tree: 6.05e-05 sec.
+Time searching 1000 times in BST tree: 0.0106772 sec.
+Time searching 1 time in BST tree: 1.06772e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102338 sec.
+Time searching 1 time in AVL tree: 1.02338e-05 sec.
+Time searching 1000 times in Vector: 0.010812 sec.
+Time searching 1 time in vector: 1.0812e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101857 sec.
+Time deleting 1 time from BST tree: 1.01857e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100408 sec.
+Time deleting 1 time from AVL tree: 1.00408e-05 sec.
+test number: 16
+Time inserting into BST tree: 1.36e-05 sec.
+Time inserting into AVL tree: 2.15e-05 sec.
+Time searching 1000 times in BST tree: 0.0100744 sec.
+Time searching 1 time in BST tree: 1.00744e-05 sec.
+Time searching 1000 times in AVL tree: 0.010104 sec.
+Time searching 1 time in AVL tree: 1.0104e-05 sec.
+Time searching 1000 times in Vector: 0.0107396 sec.
+Time searching 1 time in vector: 1.07396e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099024 sec.
+Time deleting 1 time from BST tree: 9.9024e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099217 sec.
+Time deleting 1 time from AVL tree: 9.9217e-06 sec.
+test number: 17
+Time inserting into BST tree: 1.3e-05 sec.
+Time inserting into AVL tree: 2.28e-05 sec.
+Time searching 1000 times in BST tree: 0.0100303 sec.
+Time searching 1 time in BST tree: 1.00303e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104675 sec.
+Time searching 1 time in AVL tree: 1.04675e-05 sec.
+Time searching 1000 times in Vector: 0.010544 sec.
+Time searching 1 time in vector: 1.0544e-05 sec.
+Time deleting 1000 times from BST tree: 0.010118 sec.
+Time deleting 1 time from BST tree: 1.0118e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0103895 sec.
+Time deleting 1 time from AVL tree: 1.03895e-05 sec.
+test number: 18
+Time inserting into BST tree: 1.48e-05 sec.
+Time inserting into AVL tree: 2.47e-05 sec.
+Time searching 1000 times in BST tree: 0.0100429 sec.
+Time searching 1 time in BST tree: 1.00429e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100504 sec.
+Time searching 1 time in AVL tree: 1.00504e-05 sec.
+Time searching 1000 times in Vector: 0.0106602 sec.
+Time searching 1 time in vector: 1.06602e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099543 sec.
+Time deleting 1 time from BST tree: 9.9543e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099243 sec.
+Time deleting 1 time from AVL tree: 9.9243e-06 sec.
+test number: 19
+Time inserting into BST tree: 1.45e-05 sec.
+Time inserting into AVL tree: 2.18e-05 sec.
+Time searching 1000 times in BST tree: 0.0100188 sec.
+Time searching 1 time in BST tree: 1.00188e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099055 sec.
+Time searching 1 time in AVL tree: 9.9055e-06 sec.
+Time searching 1000 times in Vector: 0.0107774 sec.
+Time searching 1 time in vector: 1.07774e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101355 sec.
+Time deleting 1 time from BST tree: 1.01355e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010177 sec.
+Time deleting 1 time from AVL tree: 1.0177e-05 sec.
+test number: 20
+Time inserting into BST tree: 1.27e-05 sec.
+Time inserting into AVL tree: 2.12e-05 sec.
+Time searching 1000 times in BST tree: 0.0101929 sec.
+Time searching 1 time in BST tree: 1.01929e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102686 sec.
+Time searching 1 time in AVL tree: 1.02686e-05 sec.
+Time searching 1000 times in Vector: 0.0110041 sec.
+Time searching 1 time in vector: 1.10041e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098859 sec.
+Time deleting 1 time from BST tree: 9.8859e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0103835 sec.
+Time deleting 1 time from AVL tree: 1.03835e-05 sec.
+
+Test seria: 8
+
+test number: 1
+Time inserting into BST tree: 0.0001042 sec.
+Time inserting into AVL tree: 9.46e-05 sec.
+Time searching 1000 times in BST tree: 0.0116637 sec.
+Time searching 1 time in BST tree: 1.16637e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104177 sec.
+Time searching 1 time in AVL tree: 1.04177e-05 sec.
+Time searching 1000 times in Vector: 0.0109463 sec.
+Time searching 1 time in vector: 1.09463e-05 sec.
+Time deleting 1000 times from BST tree: 0.0111097 sec.
+Time deleting 1 time from BST tree: 1.11097e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101039 sec.
+Time deleting 1 time from AVL tree: 1.01039e-05 sec.
+test number: 2
+Time inserting into BST tree: 7.79e-05 sec.
+Time inserting into AVL tree: 5.95e-05 sec.
+Time searching 1000 times in BST tree: 0.0112932 sec.
+Time searching 1 time in BST tree: 1.12932e-05 sec.
+Time searching 1000 times in AVL tree: 0.010217 sec.
+Time searching 1 time in AVL tree: 1.0217e-05 sec.
+Time searching 1000 times in Vector: 0.010665 sec.
+Time searching 1 time in vector: 1.0665e-05 sec.
+Time deleting 1000 times from BST tree: 0.0110299 sec.
+Time deleting 1 time from BST tree: 1.10299e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101906 sec.
+Time deleting 1 time from AVL tree: 1.01906e-05 sec.
+test number: 3
+Time inserting into BST tree: 9.27e-05 sec.
+Time inserting into AVL tree: 6.08e-05 sec.
+Time searching 1000 times in BST tree: 0.011094 sec.
+Time searching 1 time in BST tree: 1.1094e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098718 sec.
+Time searching 1 time in AVL tree: 9.8718e-06 sec.
+Time searching 1000 times in Vector: 0.0106695 sec.
+Time searching 1 time in vector: 1.06695e-05 sec.
+Time deleting 1000 times from BST tree: 0.0113735 sec.
+Time deleting 1 time from BST tree: 1.13735e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010003 sec.
+Time deleting 1 time from AVL tree: 1.0003e-05 sec.
+test number: 4
+Time inserting into BST tree: 8.41e-05 sec.
+Time inserting into AVL tree: 9.86e-05 sec.
+Time searching 1000 times in BST tree: 0.0112522 sec.
+Time searching 1 time in BST tree: 1.12522e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103046 sec.
+Time searching 1 time in AVL tree: 1.03046e-05 sec.
+Time searching 1000 times in Vector: 0.0123948 sec.
+Time searching 1 time in vector: 1.23948e-05 sec.
+Time deleting 1000 times from BST tree: 0.0110193 sec.
+Time deleting 1 time from BST tree: 1.10193e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101784 sec.
+Time deleting 1 time from AVL tree: 1.01784e-05 sec.
+test number: 5
+Time inserting into BST tree: 9.53e-05 sec.
+Time inserting into AVL tree: 6.07e-05 sec.
+Time searching 1000 times in BST tree: 0.011282 sec.
+Time searching 1 time in BST tree: 1.1282e-05 sec.
+Time searching 1000 times in AVL tree: 0.010217 sec.
+Time searching 1 time in AVL tree: 1.0217e-05 sec.
+Time searching 1000 times in Vector: 0.0108616 sec.
+Time searching 1 time in vector: 1.08616e-05 sec.
+Time deleting 1000 times from BST tree: 0.0108872 sec.
+Time deleting 1 time from BST tree: 1.08872e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100983 sec.
+Time deleting 1 time from AVL tree: 1.00983e-05 sec.
+test number: 6
+Time inserting into BST tree: 7.99e-05 sec.
+Time inserting into AVL tree: 6.02e-05 sec.
+Time searching 1000 times in BST tree: 0.0113399 sec.
+Time searching 1 time in BST tree: 1.13399e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099861 sec.
+Time searching 1 time in AVL tree: 9.9861e-06 sec.
+Time searching 1000 times in Vector: 0.0107438 sec.
+Time searching 1 time in vector: 1.07438e-05 sec.
+Time deleting 1000 times from BST tree: 0.0108601 sec.
+Time deleting 1 time from BST tree: 1.08601e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101667 sec.
+Time deleting 1 time from AVL tree: 1.01667e-05 sec.
+test number: 7
+Time inserting into BST tree: 0.0001444 sec.
+Time inserting into AVL tree: 5.75e-05 sec.
+Time searching 1000 times in BST tree: 0.0110422 sec.
+Time searching 1 time in BST tree: 1.10422e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099456 sec.
+Time searching 1 time in AVL tree: 9.9456e-06 sec.
+Time searching 1000 times in Vector: 0.0114611 sec.
+Time searching 1 time in vector: 1.14611e-05 sec.
+Time deleting 1000 times from BST tree: 0.011486 sec.
+Time deleting 1 time from BST tree: 1.1486e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010172 sec.
+Time deleting 1 time from AVL tree: 1.0172e-05 sec.
+test number: 8
+Time inserting into BST tree: 8.3e-05 sec.
+Time inserting into AVL tree: 6.07e-05 sec.
+Time searching 1000 times in BST tree: 0.0112047 sec.
+Time searching 1 time in BST tree: 1.12047e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101917 sec.
+Time searching 1 time in AVL tree: 1.01917e-05 sec.
+Time searching 1000 times in Vector: 0.0109274 sec.
+Time searching 1 time in vector: 1.09274e-05 sec.
+Time deleting 1000 times from BST tree: 0.0109364 sec.
+Time deleting 1 time from BST tree: 1.09364e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101766 sec.
+Time deleting 1 time from AVL tree: 1.01766e-05 sec.
+test number: 9
+Time inserting into BST tree: 8.38e-05 sec.
+Time inserting into AVL tree: 5.98e-05 sec.
+Time searching 1000 times in BST tree: 0.0107799 sec.
+Time searching 1 time in BST tree: 1.07799e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097828 sec.
+Time searching 1 time in AVL tree: 9.7828e-06 sec.
+Time searching 1000 times in Vector: 0.0107861 sec.
+Time searching 1 time in vector: 1.07861e-05 sec.
+Time deleting 1000 times from BST tree: 0.0107876 sec.
+Time deleting 1 time from BST tree: 1.07876e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097924 sec.
+Time deleting 1 time from AVL tree: 9.7924e-06 sec.
+test number: 10
+Time inserting into BST tree: 7.9e-05 sec.
+Time inserting into AVL tree: 6.06e-05 sec.
+Time searching 1000 times in BST tree: 0.0109432 sec.
+Time searching 1 time in BST tree: 1.09432e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098082 sec.
+Time searching 1 time in AVL tree: 9.8082e-06 sec.
+Time searching 1000 times in Vector: 0.0107196 sec.
+Time searching 1 time in vector: 1.07196e-05 sec.
+Time deleting 1000 times from BST tree: 0.0109652 sec.
+Time deleting 1 time from BST tree: 1.09652e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101491 sec.
+Time deleting 1 time from AVL tree: 1.01491e-05 sec.
+test number: 11
+Time inserting into BST tree: 2.53e-05 sec.
+Time inserting into AVL tree: 5.5e-05 sec.
+Time searching 1000 times in BST tree: 0.0104861 sec.
+Time searching 1 time in BST tree: 1.04861e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099858 sec.
+Time searching 1 time in AVL tree: 9.9858e-06 sec.
+Time searching 1000 times in Vector: 0.0114532 sec.
+Time searching 1 time in vector: 1.14532e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102293 sec.
+Time deleting 1 time from BST tree: 1.02293e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099853 sec.
+Time deleting 1 time from AVL tree: 9.9853e-06 sec.
+test number: 12
+Time inserting into BST tree: 2.37e-05 sec.
+Time inserting into AVL tree: 4.98e-05 sec.
+Time searching 1000 times in BST tree: 0.0098598 sec.
+Time searching 1 time in BST tree: 9.8598e-06 sec.
+Time searching 1000 times in AVL tree: 0.009818 sec.
+Time searching 1 time in AVL tree: 9.818e-06 sec.
+Time searching 1000 times in Vector: 0.0108486 sec.
+Time searching 1 time in vector: 1.08486e-05 sec.
+Time deleting 1000 times from BST tree: 0.0101691 sec.
+Time deleting 1 time from BST tree: 1.01691e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101173 sec.
+Time deleting 1 time from AVL tree: 1.01173e-05 sec.
+test number: 13
+Time inserting into BST tree: 8.64e-05 sec.
+Time inserting into AVL tree: 5.2e-05 sec.
+Time searching 1000 times in BST tree: 0.0101585 sec.
+Time searching 1 time in BST tree: 1.01585e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098506 sec.
+Time searching 1 time in AVL tree: 9.8506e-06 sec.
+Time searching 1000 times in Vector: 0.0108475 sec.
+Time searching 1 time in vector: 1.08475e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100463 sec.
+Time deleting 1 time from BST tree: 1.00463e-05 sec.
+Time deleting 1000 times from AVL tree: 0.009922 sec.
+Time deleting 1 time from AVL tree: 9.922e-06 sec.
+test number: 14
+Time inserting into BST tree: 2.73e-05 sec.
+Time inserting into AVL tree: 4.87e-05 sec.
+Time searching 1000 times in BST tree: 0.0101647 sec.
+Time searching 1 time in BST tree: 1.01647e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100953 sec.
+Time searching 1 time in AVL tree: 1.00953e-05 sec.
+Time searching 1000 times in Vector: 0.0114016 sec.
+Time searching 1 time in vector: 1.14016e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098136 sec.
+Time deleting 1 time from BST tree: 9.8136e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098706 sec.
+Time deleting 1 time from AVL tree: 9.8706e-06 sec.
+test number: 15
+Time inserting into BST tree: 2.39e-05 sec.
+Time inserting into AVL tree: 4.73e-05 sec.
+Time searching 1000 times in BST tree: 0.0101666 sec.
+Time searching 1 time in BST tree: 1.01666e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100323 sec.
+Time searching 1 time in AVL tree: 1.00323e-05 sec.
+Time searching 1000 times in Vector: 0.0108036 sec.
+Time searching 1 time in vector: 1.08036e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097365 sec.
+Time deleting 1 time from BST tree: 9.7365e-06 sec.
+Time deleting 1000 times from AVL tree: 0.010172 sec.
+Time deleting 1 time from AVL tree: 1.0172e-05 sec.
+test number: 16
+Time inserting into BST tree: 2.36e-05 sec.
+Time inserting into AVL tree: 4.81e-05 sec.
+Time searching 1000 times in BST tree: 0.0101692 sec.
+Time searching 1 time in BST tree: 1.01692e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101201 sec.
+Time searching 1 time in AVL tree: 1.01201e-05 sec.
+Time searching 1000 times in Vector: 0.0106187 sec.
+Time searching 1 time in vector: 1.06187e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098929 sec.
+Time deleting 1 time from BST tree: 9.8929e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0101861 sec.
+Time deleting 1 time from AVL tree: 1.01861e-05 sec.
+test number: 17
+Time inserting into BST tree: 2.46e-05 sec.
+Time inserting into AVL tree: 4.84e-05 sec.
+Time searching 1000 times in BST tree: 0.0102258 sec.
+Time searching 1 time in BST tree: 1.02258e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101439 sec.
+Time searching 1 time in AVL tree: 1.01439e-05 sec.
+Time searching 1000 times in Vector: 0.0107645 sec.
+Time searching 1 time in vector: 1.07645e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103593 sec.
+Time deleting 1 time from BST tree: 1.03593e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104578 sec.
+Time deleting 1 time from AVL tree: 1.04578e-05 sec.
+test number: 18
+Time inserting into BST tree: 2.4e-05 sec.
+Time inserting into AVL tree: 4.89e-05 sec.
+Time searching 1000 times in BST tree: 0.0100603 sec.
+Time searching 1 time in BST tree: 1.00603e-05 sec.
+Time searching 1000 times in AVL tree: 0.009886 sec.
+Time searching 1 time in AVL tree: 9.886e-06 sec.
+Time searching 1000 times in Vector: 0.0106692 sec.
+Time searching 1 time in vector: 1.06692e-05 sec.
+Time deleting 1000 times from BST tree: 0.010112 sec.
+Time deleting 1 time from BST tree: 1.0112e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097619 sec.
+Time deleting 1 time from AVL tree: 9.7619e-06 sec.
+test number: 19
+Time inserting into BST tree: 2.32e-05 sec.
+Time inserting into AVL tree: 4.81e-05 sec.
+Time searching 1000 times in BST tree: 0.0101313 sec.
+Time searching 1 time in BST tree: 1.01313e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101208 sec.
+Time searching 1 time in AVL tree: 1.01208e-05 sec.
+Time searching 1000 times in Vector: 0.0108551 sec.
+Time searching 1 time in vector: 1.08551e-05 sec.
+Time deleting 1000 times from BST tree: 0.0099067 sec.
+Time deleting 1 time from BST tree: 9.9067e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098456 sec.
+Time deleting 1 time from AVL tree: 9.8456e-06 sec.
+test number: 20
+Time inserting into BST tree: 2.45e-05 sec.
+Time inserting into AVL tree: 4.88e-05 sec.
+Time searching 1000 times in BST tree: 0.0099274 sec.
+Time searching 1 time in BST tree: 9.9274e-06 sec.
+Time searching 1000 times in AVL tree: 0.0102385 sec.
+Time searching 1 time in AVL tree: 1.02385e-05 sec.
+Time searching 1000 times in Vector: 0.0106389 sec.
+Time searching 1 time in vector: 1.06389e-05 sec.
+Time deleting 1000 times from BST tree: 0.0098302 sec.
+Time deleting 1 time from BST tree: 9.8302e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0099308 sec.
+Time deleting 1 time from AVL tree: 9.9308e-06 sec.
+
+Test seria: 9
+
+test number: 1
+Time inserting into BST tree: 0.0004222 sec.
+Time inserting into AVL tree: 0.0001244 sec.
+Time searching 1000 times in BST tree: 0.0130869 sec.
+Time searching 1 time in BST tree: 1.30869e-05 sec.
+Time searching 1000 times in AVL tree: 0.010087 sec.
+Time searching 1 time in AVL tree: 1.0087e-05 sec.
+Time searching 1000 times in Vector: 0.0112964 sec.
+Time searching 1 time in vector: 1.12964e-05 sec.
+Time deleting 1000 times from BST tree: 0.0125269 sec.
+Time deleting 1 time from BST tree: 1.25269e-05 sec.
+Time deleting 1000 times from AVL tree: 0.010123 sec.
+Time deleting 1 time from AVL tree: 1.0123e-05 sec.
+test number: 2
+Time inserting into BST tree: 0.0003132 sec.
+Time inserting into AVL tree: 0.0001284 sec.
+Time searching 1000 times in BST tree: 0.0126886 sec.
+Time searching 1 time in BST tree: 1.26886e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101296 sec.
+Time searching 1 time in AVL tree: 1.01296e-05 sec.
+Time searching 1000 times in Vector: 0.0109973 sec.
+Time searching 1 time in vector: 1.09973e-05 sec.
+Time deleting 1000 times from BST tree: 0.012389 sec.
+Time deleting 1 time from BST tree: 1.2389e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100864 sec.
+Time deleting 1 time from AVL tree: 1.00864e-05 sec.
+test number: 3
+Time inserting into BST tree: 0.0004124 sec.
+Time inserting into AVL tree: 0.0002035 sec.
+Time searching 1000 times in BST tree: 0.0123439 sec.
+Time searching 1 time in BST tree: 1.23439e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097947 sec.
+Time searching 1 time in AVL tree: 9.7947e-06 sec.
+Time searching 1000 times in Vector: 0.0111782 sec.
+Time searching 1 time in vector: 1.11782e-05 sec.
+Time deleting 1000 times from BST tree: 0.0122164 sec.
+Time deleting 1 time from BST tree: 1.22164e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101418 sec.
+Time deleting 1 time from AVL tree: 1.01418e-05 sec.
+test number: 4
+Time inserting into BST tree: 0.0002989 sec.
+Time inserting into AVL tree: 0.0001279 sec.
+Time searching 1000 times in BST tree: 0.0128759 sec.
+Time searching 1 time in BST tree: 1.28759e-05 sec.
+Time searching 1000 times in AVL tree: 0.011135 sec.
+Time searching 1 time in AVL tree: 1.1135e-05 sec.
+Time searching 1000 times in Vector: 0.0117173 sec.
+Time searching 1 time in vector: 1.17173e-05 sec.
+Time deleting 1000 times from BST tree: 0.0129456 sec.
+Time deleting 1 time from BST tree: 1.29456e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104355 sec.
+Time deleting 1 time from AVL tree: 1.04355e-05 sec.
+test number: 5
+Time inserting into BST tree: 0.0003025 sec.
+Time inserting into AVL tree: 0.0001294 sec.
+Time searching 1000 times in BST tree: 0.0124974 sec.
+Time searching 1 time in BST tree: 1.24974e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102983 sec.
+Time searching 1 time in AVL tree: 1.02983e-05 sec.
+Time searching 1000 times in Vector: 0.0113415 sec.
+Time searching 1 time in vector: 1.13415e-05 sec.
+Time deleting 1000 times from BST tree: 0.0125303 sec.
+Time deleting 1 time from BST tree: 1.25303e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102731 sec.
+Time deleting 1 time from AVL tree: 1.02731e-05 sec.
+test number: 6
+Time inserting into BST tree: 0.0003003 sec.
+Time inserting into AVL tree: 0.0001956 sec.
+Time searching 1000 times in BST tree: 0.0133515 sec.
+Time searching 1 time in BST tree: 1.33515e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101741 sec.
+Time searching 1 time in AVL tree: 1.01741e-05 sec.
+Time searching 1000 times in Vector: 0.0114583 sec.
+Time searching 1 time in vector: 1.14583e-05 sec.
+Time deleting 1000 times from BST tree: 0.0123231 sec.
+Time deleting 1 time from BST tree: 1.23231e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102712 sec.
+Time deleting 1 time from AVL tree: 1.02712e-05 sec.
+test number: 7
+Time inserting into BST tree: 0.0002988 sec.
+Time inserting into AVL tree: 0.0001269 sec.
+Time searching 1000 times in BST tree: 0.0131796 sec.
+Time searching 1 time in BST tree: 1.31796e-05 sec.
+Time searching 1000 times in AVL tree: 0.0111005 sec.
+Time searching 1 time in AVL tree: 1.11005e-05 sec.
+Time searching 1000 times in Vector: 0.0118034 sec.
+Time searching 1 time in vector: 1.18034e-05 sec.
+Time deleting 1000 times from BST tree: 0.012577 sec.
+Time deleting 1 time from BST tree: 1.2577e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102788 sec.
+Time deleting 1 time from AVL tree: 1.02788e-05 sec.
+test number: 8
+Time inserting into BST tree: 0.0003 sec.
+Time inserting into AVL tree: 0.0001257 sec.
+Time searching 1000 times in BST tree: 0.0125264 sec.
+Time searching 1 time in BST tree: 1.25264e-05 sec.
+Time searching 1000 times in AVL tree: 0.01047 sec.
+Time searching 1 time in AVL tree: 1.047e-05 sec.
+Time searching 1000 times in Vector: 0.0114983 sec.
+Time searching 1 time in vector: 1.14983e-05 sec.
+Time deleting 1000 times from BST tree: 0.0129056 sec.
+Time deleting 1 time from BST tree: 1.29056e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102762 sec.
+Time deleting 1 time from AVL tree: 1.02762e-05 sec.
+test number: 9
+Time inserting into BST tree: 0.0004095 sec.
+Time inserting into AVL tree: 0.0001229 sec.
+Time searching 1000 times in BST tree: 0.012882 sec.
+Time searching 1 time in BST tree: 1.2882e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103936 sec.
+Time searching 1 time in AVL tree: 1.03936e-05 sec.
+Time searching 1000 times in Vector: 0.011688 sec.
+Time searching 1 time in vector: 1.1688e-05 sec.
+Time deleting 1000 times from BST tree: 0.0124666 sec.
+Time deleting 1 time from BST tree: 1.24666e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104186 sec.
+Time deleting 1 time from AVL tree: 1.04186e-05 sec.
+test number: 10
+Time inserting into BST tree: 0.0003138 sec.
+Time inserting into AVL tree: 0.0001275 sec.
+Time searching 1000 times in BST tree: 0.0128548 sec.
+Time searching 1 time in BST tree: 1.28548e-05 sec.
+Time searching 1000 times in AVL tree: 0.0107897 sec.
+Time searching 1 time in AVL tree: 1.07897e-05 sec.
+Time searching 1000 times in Vector: 0.0118267 sec.
+Time searching 1 time in vector: 1.18267e-05 sec.
+Time deleting 1000 times from BST tree: 0.0126053 sec.
+Time deleting 1 time from BST tree: 1.26053e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101242 sec.
+Time deleting 1 time from AVL tree: 1.01242e-05 sec.
+test number: 11
+Time inserting into BST tree: 4.8e-05 sec.
+Time inserting into AVL tree: 0.0001001 sec.
+Time searching 1000 times in BST tree: 0.0103782 sec.
+Time searching 1 time in BST tree: 1.03782e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102757 sec.
+Time searching 1 time in AVL tree: 1.02757e-05 sec.
+Time searching 1000 times in Vector: 0.0114297 sec.
+Time searching 1 time in vector: 1.14297e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106479 sec.
+Time deleting 1 time from BST tree: 1.06479e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0103209 sec.
+Time deleting 1 time from AVL tree: 1.03209e-05 sec.
+test number: 12
+Time inserting into BST tree: 4.7e-05 sec.
+Time inserting into AVL tree: 0.0001748 sec.
+Time searching 1000 times in BST tree: 0.0102654 sec.
+Time searching 1 time in BST tree: 1.02654e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103266 sec.
+Time searching 1 time in AVL tree: 1.03266e-05 sec.
+Time searching 1000 times in Vector: 0.0113598 sec.
+Time searching 1 time in vector: 1.13598e-05 sec.
+Time deleting 1000 times from BST tree: 0.0104088 sec.
+Time deleting 1 time from BST tree: 1.04088e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101599 sec.
+Time deleting 1 time from AVL tree: 1.01599e-05 sec.
+test number: 13
+Time inserting into BST tree: 4.72e-05 sec.
+Time inserting into AVL tree: 0.0001288 sec.
+Time searching 1000 times in BST tree: 0.0103718 sec.
+Time searching 1 time in BST tree: 1.03718e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104023 sec.
+Time searching 1 time in AVL tree: 1.04023e-05 sec.
+Time searching 1000 times in Vector: 0.0117852 sec.
+Time searching 1 time in vector: 1.17852e-05 sec.
+Time deleting 1000 times from BST tree: 0.0106888 sec.
+Time deleting 1 time from BST tree: 1.06888e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0105424 sec.
+Time deleting 1 time from AVL tree: 1.05424e-05 sec.
+test number: 14
+Time inserting into BST tree: 4.81e-05 sec.
+Time inserting into AVL tree: 0.0001006 sec.
+Time searching 1000 times in BST tree: 0.0105847 sec.
+Time searching 1 time in BST tree: 1.05847e-05 sec.
+Time searching 1000 times in AVL tree: 0.010008 sec.
+Time searching 1 time in AVL tree: 1.0008e-05 sec.
+Time searching 1000 times in Vector: 0.0113105 sec.
+Time searching 1 time in vector: 1.13105e-05 sec.
+Time deleting 1000 times from BST tree: 0.0103338 sec.
+Time deleting 1 time from BST tree: 1.03338e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101995 sec.
+Time deleting 1 time from AVL tree: 1.01995e-05 sec.
+test number: 15
+Time inserting into BST tree: 4.64e-05 sec.
+Time inserting into AVL tree: 0.0001003 sec.
+Time searching 1000 times in BST tree: 0.0102633 sec.
+Time searching 1 time in BST tree: 1.02633e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103283 sec.
+Time searching 1 time in AVL tree: 1.03283e-05 sec.
+Time searching 1000 times in Vector: 0.0114499 sec.
+Time searching 1 time in vector: 1.14499e-05 sec.
+Time deleting 1000 times from BST tree: 0.010339 sec.
+Time deleting 1 time from BST tree: 1.0339e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101963 sec.
+Time deleting 1 time from AVL tree: 1.01963e-05 sec.
+test number: 16
+Time inserting into BST tree: 4.48e-05 sec.
+Time inserting into AVL tree: 0.0001006 sec.
+Time searching 1000 times in BST tree: 0.0103477 sec.
+Time searching 1 time in BST tree: 1.03477e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102163 sec.
+Time searching 1 time in AVL tree: 1.02163e-05 sec.
+Time searching 1000 times in Vector: 0.0114378 sec.
+Time searching 1 time in vector: 1.14378e-05 sec.
+Time deleting 1000 times from BST tree: 0.010295 sec.
+Time deleting 1 time from BST tree: 1.0295e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0105226 sec.
+Time deleting 1 time from AVL tree: 1.05226e-05 sec.
+test number: 17
+Time inserting into BST tree: 0.0001275 sec.
+Time inserting into AVL tree: 9.87e-05 sec.
+Time searching 1000 times in BST tree: 0.010695 sec.
+Time searching 1 time in BST tree: 1.0695e-05 sec.
+Time searching 1000 times in AVL tree: 0.0107158 sec.
+Time searching 1 time in AVL tree: 1.07158e-05 sec.
+Time searching 1000 times in Vector: 0.0115355 sec.
+Time searching 1 time in vector: 1.15355e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102031 sec.
+Time deleting 1 time from BST tree: 1.02031e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102383 sec.
+Time deleting 1 time from AVL tree: 1.02383e-05 sec.
+test number: 18
+Time inserting into BST tree: 4.52e-05 sec.
+Time inserting into AVL tree: 0.0001 sec.
+Time searching 1000 times in BST tree: 0.0105199 sec.
+Time searching 1 time in BST tree: 1.05199e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102548 sec.
+Time searching 1 time in AVL tree: 1.02548e-05 sec.
+Time searching 1000 times in Vector: 0.0114229 sec.
+Time searching 1 time in vector: 1.14229e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102088 sec.
+Time deleting 1 time from BST tree: 1.02088e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0106103 sec.
+Time deleting 1 time from AVL tree: 1.06103e-05 sec.
+test number: 19
+Time inserting into BST tree: 4.62e-05 sec.
+Time inserting into AVL tree: 0.0001003 sec.
+Time searching 1000 times in BST tree: 0.0105826 sec.
+Time searching 1 time in BST tree: 1.05826e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105559 sec.
+Time searching 1 time in AVL tree: 1.05559e-05 sec.
+Time searching 1000 times in Vector: 0.0109165 sec.
+Time searching 1 time in vector: 1.09165e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097025 sec.
+Time deleting 1 time from BST tree: 9.7025e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098246 sec.
+Time deleting 1 time from AVL tree: 9.8246e-06 sec.
+test number: 20
+Time inserting into BST tree: 4.85e-05 sec.
+Time inserting into AVL tree: 0.0001001 sec.
+Time searching 1000 times in BST tree: 0.0096711 sec.
+Time searching 1 time in BST tree: 9.6711e-06 sec.
+Time searching 1000 times in AVL tree: 0.0102217 sec.
+Time searching 1 time in AVL tree: 1.02217e-05 sec.
+Time searching 1000 times in Vector: 0.0116108 sec.
+Time searching 1 time in vector: 1.16108e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100173 sec.
+Time deleting 1 time from BST tree: 1.00173e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101637 sec.
+Time deleting 1 time from AVL tree: 1.01637e-05 sec.
+
+Test seria: 10
+
+test number: 1
+Time inserting into BST tree: 0.0015378 sec.
+Time inserting into AVL tree: 0.0002621 sec.
+Time searching 1000 times in BST tree: 0.015038 sec.
+Time searching 1 time in BST tree: 1.5038e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099009 sec.
+Time searching 1 time in AVL tree: 9.9009e-06 sec.
+Time searching 1000 times in Vector: 0.0114714 sec.
+Time searching 1 time in vector: 1.14714e-05 sec.
+Time deleting 1000 times from BST tree: 0.015302 sec.
+Time deleting 1 time from BST tree: 1.5302e-05 sec.
+Time deleting 1000 times from AVL tree: 0.009933 sec.
+Time deleting 1 time from AVL tree: 9.933e-06 sec.
+test number: 2
+Time inserting into BST tree: 0.0014313 sec.
+Time inserting into AVL tree: 0.00035 sec.
+Time searching 1000 times in BST tree: 0.0149976 sec.
+Time searching 1 time in BST tree: 1.49976e-05 sec.
+Time searching 1000 times in AVL tree: 0.0096562 sec.
+Time searching 1 time in AVL tree: 9.6562e-06 sec.
+Time searching 1000 times in Vector: 0.011704 sec.
+Time searching 1 time in vector: 1.1704e-05 sec.
+Time deleting 1000 times from BST tree: 0.0152912 sec.
+Time deleting 1 time from BST tree: 1.52912e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098453 sec.
+Time deleting 1 time from AVL tree: 9.8453e-06 sec.
+test number: 3
+Time inserting into BST tree: 0.001441 sec.
+Time inserting into AVL tree: 0.0003415 sec.
+Time searching 1000 times in BST tree: 0.0154379 sec.
+Time searching 1 time in BST tree: 1.54379e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099825 sec.
+Time searching 1 time in AVL tree: 9.9825e-06 sec.
+Time searching 1000 times in Vector: 0.0120848 sec.
+Time searching 1 time in vector: 1.20848e-05 sec.
+Time deleting 1000 times from BST tree: 0.0154777 sec.
+Time deleting 1 time from BST tree: 1.54777e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097196 sec.
+Time deleting 1 time from AVL tree: 9.7196e-06 sec.
+test number: 4
+Time inserting into BST tree: 0.001364 sec.
+Time inserting into AVL tree: 0.000269 sec.
+Time searching 1000 times in BST tree: 0.0151119 sec.
+Time searching 1 time in BST tree: 1.51119e-05 sec.
+Time searching 1000 times in AVL tree: 0.0095555 sec.
+Time searching 1 time in AVL tree: 9.5555e-06 sec.
+Time searching 1000 times in Vector: 0.0113889 sec.
+Time searching 1 time in vector: 1.13889e-05 sec.
+Time deleting 1000 times from BST tree: 0.0148631 sec.
+Time deleting 1 time from BST tree: 1.48631e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100761 sec.
+Time deleting 1 time from AVL tree: 1.00761e-05 sec.
+test number: 5
+Time inserting into BST tree: 0.0014678 sec.
+Time inserting into AVL tree: 0.0002896 sec.
+Time searching 1000 times in BST tree: 0.015128 sec.
+Time searching 1 time in BST tree: 1.5128e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097448 sec.
+Time searching 1 time in AVL tree: 9.7448e-06 sec.
+Time searching 1000 times in Vector: 0.0115124 sec.
+Time searching 1 time in vector: 1.15124e-05 sec.
+Time deleting 1000 times from BST tree: 0.0152218 sec.
+Time deleting 1 time from BST tree: 1.52218e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0097436 sec.
+Time deleting 1 time from AVL tree: 9.7436e-06 sec.
+test number: 6
+Time inserting into BST tree: 0.0013963 sec.
+Time inserting into AVL tree: 0.0003366 sec.
+Time searching 1000 times in BST tree: 0.015103 sec.
+Time searching 1 time in BST tree: 1.5103e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101243 sec.
+Time searching 1 time in AVL tree: 1.01243e-05 sec.
+Time searching 1000 times in Vector: 0.0127727 sec.
+Time searching 1 time in vector: 1.27727e-05 sec.
+Time deleting 1000 times from BST tree: 0.0157333 sec.
+Time deleting 1 time from BST tree: 1.57333e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102572 sec.
+Time deleting 1 time from AVL tree: 1.02572e-05 sec.
+test number: 7
+Time inserting into BST tree: 0.0013749 sec.
+Time inserting into AVL tree: 0.0002821 sec.
+Time searching 1000 times in BST tree: 0.0149172 sec.
+Time searching 1 time in BST tree: 1.49172e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098483 sec.
+Time searching 1 time in AVL tree: 9.8483e-06 sec.
+Time searching 1000 times in Vector: 0.0114586 sec.
+Time searching 1 time in vector: 1.14586e-05 sec.
+Time deleting 1000 times from BST tree: 0.0149516 sec.
+Time deleting 1 time from BST tree: 1.49516e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099428 sec.
+Time deleting 1 time from AVL tree: 9.9428e-06 sec.
+test number: 8
+Time inserting into BST tree: 0.0014518 sec.
+Time inserting into AVL tree: 0.0002631 sec.
+Time searching 1000 times in BST tree: 0.0148739 sec.
+Time searching 1 time in BST tree: 1.48739e-05 sec.
+Time searching 1000 times in AVL tree: 0.0096201 sec.
+Time searching 1 time in AVL tree: 9.6201e-06 sec.
+Time searching 1000 times in Vector: 0.0114686 sec.
+Time searching 1 time in vector: 1.14686e-05 sec.
+Time deleting 1000 times from BST tree: 0.0152084 sec.
+Time deleting 1 time from BST tree: 1.52084e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0098748 sec.
+Time deleting 1 time from AVL tree: 9.8748e-06 sec.
+test number: 9
+Time inserting into BST tree: 0.0014498 sec.
+Time inserting into AVL tree: 0.0002624 sec.
+Time searching 1000 times in BST tree: 0.0154573 sec.
+Time searching 1 time in BST tree: 1.54573e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098842 sec.
+Time searching 1 time in AVL tree: 9.8842e-06 sec.
+Time searching 1000 times in Vector: 0.0115979 sec.
+Time searching 1 time in vector: 1.15979e-05 sec.
+Time deleting 1000 times from BST tree: 0.0150758 sec.
+Time deleting 1 time from BST tree: 1.50758e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0095571 sec.
+Time deleting 1 time from AVL tree: 9.5571e-06 sec.
+test number: 10
+Time inserting into BST tree: 0.0013389 sec.
+Time inserting into AVL tree: 0.0003414 sec.
+Time searching 1000 times in BST tree: 0.0150193 sec.
+Time searching 1 time in BST tree: 1.50193e-05 sec.
+Time searching 1000 times in AVL tree: 0.0098758 sec.
+Time searching 1 time in AVL tree: 9.8758e-06 sec.
+Time searching 1000 times in Vector: 0.0119094 sec.
+Time searching 1 time in vector: 1.19094e-05 sec.
+Time deleting 1000 times from BST tree: 0.014933 sec.
+Time deleting 1 time from BST tree: 1.4933e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0100347 sec.
+Time deleting 1 time from AVL tree: 1.00347e-05 sec.
+test number: 11
+Time inserting into BST tree: 0.0001026 sec.
+Time inserting into AVL tree: 0.0002288 sec.
+Time searching 1000 times in BST tree: 0.0098326 sec.
+Time searching 1 time in BST tree: 9.8326e-06 sec.
+Time searching 1000 times in AVL tree: 0.0097052 sec.
+Time searching 1 time in AVL tree: 9.7052e-06 sec.
+Time searching 1000 times in Vector: 0.0113748 sec.
+Time searching 1 time in vector: 1.13748e-05 sec.
+Time deleting 1000 times from BST tree: 0.0100141 sec.
+Time deleting 1 time from BST tree: 1.00141e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099568 sec.
+Time deleting 1 time from AVL tree: 9.9568e-06 sec.
+test number: 12
+Time inserting into BST tree: 0.000108 sec.
+Time inserting into AVL tree: 0.0003151 sec.
+Time searching 1000 times in BST tree: 0.0104191 sec.
+Time searching 1 time in BST tree: 1.04191e-05 sec.
+Time searching 1000 times in AVL tree: 0.0097566 sec.
+Time searching 1 time in AVL tree: 9.7566e-06 sec.
+Time searching 1000 times in Vector: 0.0118553 sec.
+Time searching 1 time in vector: 1.18553e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097402 sec.
+Time deleting 1 time from BST tree: 9.7402e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0098803 sec.
+Time deleting 1 time from AVL tree: 9.8803e-06 sec.
+test number: 13
+Time inserting into BST tree: 0.0001037 sec.
+Time inserting into AVL tree: 0.0002251 sec.
+Time searching 1000 times in BST tree: 0.00981 sec.
+Time searching 1 time in BST tree: 9.81e-06 sec.
+Time searching 1000 times in AVL tree: 0.0096158 sec.
+Time searching 1 time in AVL tree: 9.6158e-06 sec.
+Time searching 1000 times in Vector: 0.0113797 sec.
+Time searching 1 time in vector: 1.13797e-05 sec.
+Time deleting 1000 times from BST tree: 0.0097653 sec.
+Time deleting 1 time from BST tree: 9.7653e-06 sec.
+Time deleting 1000 times from AVL tree: 0.0102232 sec.
+Time deleting 1 time from AVL tree: 1.02232e-05 sec.
+test number: 14
+Time inserting into BST tree: 0.0001037 sec.
+Time inserting into AVL tree: 0.0002286 sec.
+Time searching 1000 times in BST tree: 0.0097382 sec.
+Time searching 1 time in BST tree: 9.7382e-06 sec.
+Time searching 1000 times in AVL tree: 0.010045 sec.
+Time searching 1 time in AVL tree: 1.0045e-05 sec.
+Time searching 1000 times in Vector: 0.012267 sec.
+Time searching 1 time in vector: 1.2267e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102651 sec.
+Time deleting 1 time from BST tree: 1.02651e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101584 sec.
+Time deleting 1 time from AVL tree: 1.01584e-05 sec.
+test number: 15
+Time inserting into BST tree: 0.000175 sec.
+Time inserting into AVL tree: 0.0002225 sec.
+Time searching 1000 times in BST tree: 0.0102054 sec.
+Time searching 1 time in BST tree: 1.02054e-05 sec.
+Time searching 1000 times in AVL tree: 0.010193 sec.
+Time searching 1 time in AVL tree: 1.0193e-05 sec.
+Time searching 1000 times in Vector: 0.0124229 sec.
+Time searching 1 time in vector: 1.24229e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105285 sec.
+Time deleting 1 time from BST tree: 1.05285e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0101666 sec.
+Time deleting 1 time from AVL tree: 1.01666e-05 sec.
+test number: 16
+Time inserting into BST tree: 0.000103 sec.
+Time inserting into AVL tree: 0.0002291 sec.
+Time searching 1000 times in BST tree: 0.0105949 sec.
+Time searching 1 time in BST tree: 1.05949e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101484 sec.
+Time searching 1 time in AVL tree: 1.01484e-05 sec.
+Time searching 1000 times in Vector: 0.0120001 sec.
+Time searching 1 time in vector: 1.20001e-05 sec.
+Time deleting 1000 times from BST tree: 0.0104824 sec.
+Time deleting 1 time from BST tree: 1.04824e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104689 sec.
+Time deleting 1 time from AVL tree: 1.04689e-05 sec.
+test number: 17
+Time inserting into BST tree: 0.000172 sec.
+Time inserting into AVL tree: 0.0002222 sec.
+Time searching 1000 times in BST tree: 0.010266 sec.
+Time searching 1 time in BST tree: 1.0266e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101567 sec.
+Time searching 1 time in AVL tree: 1.01567e-05 sec.
+Time searching 1000 times in Vector: 0.0118624 sec.
+Time searching 1 time in vector: 1.18624e-05 sec.
+Time deleting 1000 times from BST tree: 0.0105771 sec.
+Time deleting 1 time from BST tree: 1.05771e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102808 sec.
+Time deleting 1 time from AVL tree: 1.02808e-05 sec.
+test number: 18
+Time inserting into BST tree: 0.0001019 sec.
+Time inserting into AVL tree: 0.00023 sec.
+Time searching 1000 times in BST tree: 0.0102596 sec.
+Time searching 1 time in BST tree: 1.02596e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100123 sec.
+Time searching 1 time in AVL tree: 1.00123e-05 sec.
+Time searching 1000 times in Vector: 0.011851 sec.
+Time searching 1 time in vector: 1.1851e-05 sec.
+Time deleting 1000 times from BST tree: 0.0111582 sec.
+Time deleting 1 time from BST tree: 1.11582e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102056 sec.
+Time deleting 1 time from AVL tree: 1.02056e-05 sec.
+test number: 19
+Time inserting into BST tree: 0.0001757 sec.
+Time inserting into AVL tree: 0.0002219 sec.
+Time searching 1000 times in BST tree: 0.0104218 sec.
+Time searching 1 time in BST tree: 1.04218e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103088 sec.
+Time searching 1 time in AVL tree: 1.03088e-05 sec.
+Time searching 1000 times in Vector: 0.0119582 sec.
+Time searching 1 time in vector: 1.19582e-05 sec.
+Time deleting 1000 times from BST tree: 0.0102473 sec.
+Time deleting 1 time from BST tree: 1.02473e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0104184 sec.
+Time deleting 1 time from AVL tree: 1.04184e-05 sec.
+test number: 20
+Time inserting into BST tree: 0.0001007 sec.
+Time inserting into AVL tree: 0.0002297 sec.
+Time searching 1000 times in BST tree: 0.0101968 sec.
+Time searching 1 time in BST tree: 1.01968e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101637 sec.
+Time searching 1 time in AVL tree: 1.01637e-05 sec.
+Time searching 1000 times in Vector: 0.0121448 sec.
+Time searching 1 time in vector: 1.21448e-05 sec.
+Time deleting 1000 times from BST tree: 0.01006 sec.
+Time deleting 1 time from BST tree: 1.006e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102327 sec.
+Time deleting 1 time from AVL tree: 1.02327e-05 sec.
+

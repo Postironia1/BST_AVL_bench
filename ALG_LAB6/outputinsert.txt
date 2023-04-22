@@ -1,0 +1,384 @@
+Test seria: 1
+
+test number: 1
+Time inserting into BST tree: 0.0048898 sec.
+Time inserting into AVL tree: 0.0006927 sec.
+test number: 2
+Time inserting into BST tree: 0.0059284 sec.
+Time inserting into AVL tree: 0.0006475 sec.
+test number: 3
+Time inserting into BST tree: 0.0052904 sec.
+Time inserting into AVL tree: 0.0006749 sec.
+test number: 4
+Time inserting into BST tree: 0.0043546 sec.
+Time inserting into AVL tree: 0.0006003 sec.
+test number: 5
+Time inserting into BST tree: 0.0044624 sec.
+Time inserting into AVL tree: 0.0006762 sec.
+test number: 6
+Time inserting into BST tree: 0.0042293 sec.
+Time inserting into AVL tree: 0.0006794 sec.
+test number: 7
+Time inserting into BST tree: 0.0045203 sec.
+Time inserting into AVL tree: 0.0006854 sec.
+test number: 8
+Time inserting into BST tree: 0.0043154 sec.
+Time inserting into AVL tree: 0.0006877 sec.
+test number: 9
+Time inserting into BST tree: 0.0043865 sec.
+Time inserting into AVL tree: 0.0007287 sec.
+test number: 10
+Time inserting into BST tree: 0.0045625 sec.
+Time inserting into AVL tree: 0.0006901 sec.
+test number: 11
+Time inserting into BST tree: 0.0003118 sec.
+Time inserting into AVL tree: 0.000515 sec.
+test number: 12
+Time inserting into BST tree: 0.000223 sec.
+Time inserting into AVL tree: 0.0006049 sec.
+test number: 13
+Time inserting into BST tree: 0.0002198 sec.
+Time inserting into AVL tree: 0.0005958 sec.
+test number: 14
+Time inserting into BST tree: 0.0002303 sec.
+Time inserting into AVL tree: 0.0005977 sec.
+test number: 15
+Time inserting into BST tree: 0.0002139 sec.
+Time inserting into AVL tree: 0.0006997 sec.
+test number: 16
+Time inserting into BST tree: 0.0002298 sec.
+Time inserting into AVL tree: 0.0006192 sec.
+test number: 17
+Time inserting into BST tree: 0.0002144 sec.
+Time inserting into AVL tree: 0.0006006 sec.
+test number: 18
+Time inserting into BST tree: 0.0002132 sec.
+Time inserting into AVL tree: 0.0006056 sec.
+test number: 19
+Time inserting into BST tree: 0.0002148 sec.
+Time inserting into AVL tree: 0.0006163 sec.
+test number: 20
+Time inserting into BST tree: 0.000215 sec.
+Time inserting into AVL tree: 0.0005135 sec.
+
+Test seria: 2
+
+test number: 1
+Time inserting into BST tree: 0.0179787 sec.
+Time inserting into AVL tree: 0.0013647 sec.
+test number: 2
+Time inserting into BST tree: 0.0179595 sec.
+Time inserting into AVL tree: 0.0014403 sec.
+test number: 3
+Time inserting into BST tree: 0.0177998 sec.
+Time inserting into AVL tree: 0.001413 sec.
+test number: 4
+Time inserting into BST tree: 0.018066 sec.
+Time inserting into AVL tree: 0.0015175 sec.
+test number: 5
+Time inserting into BST tree: 0.026706 sec.
+Time inserting into AVL tree: 0.0013816 sec.
+test number: 6
+Time inserting into BST tree: 0.0178019 sec.
+Time inserting into AVL tree: 0.0013735 sec.
+test number: 7
+Time inserting into BST tree: 0.0178126 sec.
+Time inserting into AVL tree: 0.0014886 sec.
+test number: 8
+Time inserting into BST tree: 0.0177056 sec.
+Time inserting into AVL tree: 0.0015018 sec.
+test number: 9
+Time inserting into BST tree: 0.0209613 sec.
+Time inserting into AVL tree: 0.001457 sec.
+test number: 10
+Time inserting into BST tree: 0.0231122 sec.
+Time inserting into AVL tree: 0.0014399 sec.
+test number: 11
+Time inserting into BST tree: 0.0005704 sec.
+Time inserting into AVL tree: 0.001436 sec.
+test number: 12
+Time inserting into BST tree: 0.0007624 sec.
+Time inserting into AVL tree: 0.0014869 sec.
+test number: 13
+Time inserting into BST tree: 0.0005956 sec.
+Time inserting into AVL tree: 0.0013 sec.
+test number: 14
+Time inserting into BST tree: 0.000567 sec.
+Time inserting into AVL tree: 0.0012382 sec.
+test number: 15
+Time inserting into BST tree: 0.0005615 sec.
+Time inserting into AVL tree: 0.0012014 sec.
+test number: 16
+Time inserting into BST tree: 0.0005542 sec.
+Time inserting into AVL tree: 0.0014938 sec.
+test number: 17
+Time inserting into BST tree: 0.0007734 sec.
+Time inserting into AVL tree: 0.0014739 sec.
+test number: 18
+Time inserting into BST tree: 0.0005872 sec.
+Time inserting into AVL tree: 0.0011193 sec.
+test number: 19
+Time inserting into BST tree: 0.0006364 sec.
+Time inserting into AVL tree: 0.0012352 sec.
+test number: 20
+Time inserting into BST tree: 0.0005612 sec.
+Time inserting into AVL tree: 0.0012128 sec.
+
+Test seria: 3
+
+test number: 1
+Time inserting into BST tree: 0.0828443 sec.
+Time inserting into AVL tree: 0.0029531 sec.
+test number: 2
+Time inserting into BST tree: 0.0722527 sec.
+Time inserting into AVL tree: 0.0029592 sec.
+test number: 3
+Time inserting into BST tree: 0.0827593 sec.
+Time inserting into AVL tree: 0.0029744 sec.
+test number: 4
+Time inserting into BST tree: 0.0735433 sec.
+Time inserting into AVL tree: 0.0029697 sec.
+test number: 5
+Time inserting into BST tree: 0.0735704 sec.
+Time inserting into AVL tree: 0.0029898 sec.
+test number: 6
+Time inserting into BST tree: 0.0792151 sec.
+Time inserting into AVL tree: 0.002942 sec.
+test number: 7
+Time inserting into BST tree: 0.0735886 sec.
+Time inserting into AVL tree: 0.0031216 sec.
+test number: 8
+Time inserting into BST tree: 0.0742226 sec.
+Time inserting into AVL tree: 0.003094 sec.
+test number: 9
+Time inserting into BST tree: 0.082361 sec.
+Time inserting into AVL tree: 0.0033988 sec.
+test number: 10
+Time inserting into BST tree: 0.0853322 sec.
+Time inserting into AVL tree: 0.0037499 sec.
+test number: 11
+Time inserting into BST tree: 0.0017443 sec.
+Time inserting into AVL tree: 0.0035607 sec.
+test number: 12
+Time inserting into BST tree: 0.0017136 sec.
+Time inserting into AVL tree: 0.0029505 sec.
+test number: 13
+Time inserting into BST tree: 0.0012479 sec.
+Time inserting into AVL tree: 0.0026544 sec.
+test number: 14
+Time inserting into BST tree: 0.0017541 sec.
+Time inserting into AVL tree: 0.0027654 sec.
+test number: 15
+Time inserting into BST tree: 0.0012809 sec.
+Time inserting into AVL tree: 0.0033761 sec.
+test number: 16
+Time inserting into BST tree: 0.0019148 sec.
+Time inserting into AVL tree: 0.0042832 sec.
+test number: 17
+Time inserting into BST tree: 0.0019519 sec.
+Time inserting into AVL tree: 0.0032183 sec.
+test number: 18
+Time inserting into BST tree: 0.0012381 sec.
+Time inserting into AVL tree: 0.0037344 sec.
+test number: 19
+Time inserting into BST tree: 0.0012708 sec.
+Time inserting into AVL tree: 0.0027007 sec.
+test number: 20
+Time inserting into BST tree: 0.0016358 sec.
+Time inserting into AVL tree: 0.0030843 sec.
+
+Test seria: 4
+
+test number: 1
+Time inserting into BST tree: 0.363894 sec.
+Time inserting into AVL tree: 0.0062733 sec.
+test number: 2
+Time inserting into BST tree: 0.3532 sec.
+Time inserting into AVL tree: 0.0062699 sec.
+test number: 3
+Time inserting into BST tree: 0.368713 sec.
+Time inserting into AVL tree: 0.006314 sec.
+test number: 4
+Time inserting into BST tree: 0.33017 sec.
+Time inserting into AVL tree: 0.0064649 sec.
+test number: 5
+Time inserting into BST tree: 0.450635 sec.
+Time inserting into AVL tree: 0.0091586 sec.
+test number: 6
+Time inserting into BST tree: 0.632442 sec.
+Time inserting into AVL tree: 0.0069999 sec.
+test number: 7
+Time inserting into BST tree: 0.473337 sec.
+Time inserting into AVL tree: 0.0063775 sec.
+test number: 8
+Time inserting into BST tree: 0.320438 sec.
+Time inserting into AVL tree: 0.0059887 sec.
+test number: 9
+Time inserting into BST tree: 0.343077 sec.
+Time inserting into AVL tree: 0.0063121 sec.
+test number: 10
+Time inserting into BST tree: 0.343183 sec.
+Time inserting into AVL tree: 0.0075648 sec.
+test number: 11
+Time inserting into BST tree: 0.0025 sec.
+Time inserting into AVL tree: 0.005501 sec.
+test number: 12
+Time inserting into BST tree: 0.0025325 sec.
+Time inserting into AVL tree: 0.0054712 sec.
+test number: 13
+Time inserting into BST tree: 0.0026471 sec.
+Time inserting into AVL tree: 0.0057551 sec.
+test number: 14
+Time inserting into BST tree: 0.0026024 sec.
+Time inserting into AVL tree: 0.005776 sec.
+test number: 15
+Time inserting into BST tree: 0.0025049 sec.
+Time inserting into AVL tree: 0.0055581 sec.
+test number: 16
+Time inserting into BST tree: 0.0025859 sec.
+Time inserting into AVL tree: 0.0061802 sec.
+test number: 17
+Time inserting into BST tree: 0.0027882 sec.
+Time inserting into AVL tree: 0.0059064 sec.
+test number: 18
+Time inserting into BST tree: 0.0026918 sec.
+Time inserting into AVL tree: 0.005605 sec.
+test number: 19
+Time inserting into BST tree: 0.0026922 sec.
+Time inserting into AVL tree: 0.0056435 sec.
+test number: 20
+Time inserting into BST tree: 0.002599 sec.
+Time inserting into AVL tree: 0.0056062 sec.
+
+Test seria: 5
+
+test number: 1
+Time inserting into BST tree: 1.54374 sec.
+Time inserting into AVL tree: 0.0130578 sec.
+test number: 2
+Time inserting into BST tree: 1.43154 sec.
+Time inserting into AVL tree: 0.0130583 sec.
+test number: 3
+Time inserting into BST tree: 1.41263 sec.
+Time inserting into AVL tree: 0.013289 sec.
+test number: 4
+Time inserting into BST tree: 1.37701 sec.
+Time inserting into AVL tree: 0.0133355 sec.
+test number: 5
+Time inserting into BST tree: 1.41412 sec.
+Time inserting into AVL tree: 0.0133607 sec.
+test number: 6
+Time inserting into BST tree: 1.37962 sec.
+Time inserting into AVL tree: 0.0127113 sec.
+test number: 7
+Time inserting into BST tree: 1.3835 sec.
+Time inserting into AVL tree: 0.0162359 sec.
+test number: 8
+Time inserting into BST tree: 1.53159 sec.
+Time inserting into AVL tree: 0.016891 sec.
+test number: 9
+Time inserting into BST tree: 1.38972 sec.
+Time inserting into AVL tree: 0.0163254 sec.
+test number: 10
+Time inserting into BST tree: 1.47625 sec.
+Time inserting into AVL tree: 0.0129141 sec.
+test number: 11
+Time inserting into BST tree: 0.0057441 sec.
+Time inserting into AVL tree: 0.0123656 sec.
+test number: 12
+Time inserting into BST tree: 0.0054585 sec.
+Time inserting into AVL tree: 0.0123429 sec.
+test number: 13
+Time inserting into BST tree: 0.0055435 sec.
+Time inserting into AVL tree: 0.0124745 sec.
+test number: 14
+Time inserting into BST tree: 0.006039 sec.
+Time inserting into AVL tree: 0.0130538 sec.
+test number: 15
+Time inserting into BST tree: 0.0063838 sec.
+Time inserting into AVL tree: 0.0133232 sec.
+test number: 16
+Time inserting into BST tree: 0.0062505 sec.
+Time inserting into AVL tree: 0.013539 sec.
+test number: 17
+Time inserting into BST tree: 0.0062319 sec.
+Time inserting into AVL tree: 0.0138592 sec.
+test number: 18
+Time inserting into BST tree: 0.0068295 sec.
+Time inserting into AVL tree: 0.013982 sec.
+test number: 19
+Time inserting into BST tree: 0.0067899 sec.
+Time inserting into AVL tree: 0.0140108 sec.
+test number: 20
+Time inserting into BST tree: 0.0069169 sec.
+Time inserting into AVL tree: 0.014283 sec.
+
+Test seria: 6
+
+test number: 1
+Time inserting into BST tree: 6.4651 sec.
+Time inserting into AVL tree: 0.0261043 sec.
+test number: 2
+Time inserting into BST tree: 6.72663 sec.
+Time inserting into AVL tree: 0.033228 sec.
+test number: 3
+Time inserting into BST tree: 6.14147 sec.
+Time inserting into AVL tree: 0.0340801 sec.
+test number: 4
+Time inserting into BST tree: 6.06432 sec.
+Time inserting into AVL tree: 0.0263874 sec.
+test number: 5
+Time inserting into BST tree: 6.41383 sec.
+Time inserting into AVL tree: 0.027198 sec.
+test number: 6
+Time inserting into BST tree: 6.36467 sec.
+Time inserting into AVL tree: 0.0306656 sec.
+test number: 7
+Time inserting into BST tree: 6.49998 sec.
+Time inserting into AVL tree: 0.0264723 sec.
+test number: 8
+Time inserting into BST tree: 6.41892 sec.
+Time inserting into AVL tree: 0.0273558 sec.
+test number: 9
+Time inserting into BST tree: 6.70158 sec.
+Time inserting into AVL tree: 0.03509 sec.
+test number: 10
+Time inserting into BST tree: 6.79776 sec.
+Time inserting into AVL tree: 0.0278356 sec.
+test number: 11
+Time inserting into BST tree: 0.01355 sec.
+Time inserting into AVL tree: 0.0274794 sec.
+test number: 12
+Time inserting into BST tree: 0.0143889 sec.
+Time inserting into AVL tree: 0.0287858 sec.
+test number: 13
+Time inserting into BST tree: 0.0147905 sec.
+Time inserting into AVL tree: 0.0322249 sec.
+test number: 14
+Time inserting into BST tree: 0.0144389 sec.
+Time inserting into AVL tree: 0.0295134 sec.
+test number: 15
+Time inserting into BST tree: 0.0145696 sec.
+Time inserting into AVL tree: 0.0296876 sec.
+test number: 16
+Time inserting into BST tree: 0.0136836 sec.
+Time inserting into AVL tree: 0.0293031 sec.
+test number: 17
+Time inserting into BST tree: 0.013882 sec.
+Time inserting into AVL tree: 0.0276755 sec.
+test number: 18
+Time inserting into BST tree: 0.0135417 sec.
+Time inserting into AVL tree: 0.0284612 sec.
+test number: 19
+Time inserting into BST tree: 0.0150115 sec.
+Time inserting into AVL tree: 0.0270367 sec.
+test number: 20
+Time inserting into BST tree: 0.0130953 sec.
+Time inserting into AVL tree: 0.0271809 sec.
+
+Test seria: 7
+
+test number: 1
+Time inserting into BST tree: 55.7325 sec.
+Time inserting into AVL tree: 0.0556045 sec.
+test number: 2
